@@ -20,4 +20,7 @@ from home import views as homeview
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', homeview.home),
+    path('home/', homeview.home),
+    path('login/', homeview.applogin),
+    path('register/', homeview.register)
 ]
