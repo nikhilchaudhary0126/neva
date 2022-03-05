@@ -21,5 +21,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('', homeview.home),
     path('home/', homeview.home),
-    path('login/', homeview.applogin)
+    path('login/', homeview.applogin),
+    path('registration/', homeview.registration)
 ]
