@@ -22,5 +22,9 @@ urlpatterns = [
     path('', homeview.home),
     path('home/', homeview.home),
     path('login/', homeview.applogin),
+<<<<<<< HEAD
     path('registration/', homeview.registration)
+=======
+    path('register/', homeview.register)
+>>>>>>> 6228f250e26868712429b510805b13db8e892c78
 ]
