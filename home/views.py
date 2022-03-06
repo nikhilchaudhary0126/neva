@@ -9,6 +9,7 @@ from django.contrib.auth import authenticate, login
 from django.contrib.auth.forms import AuthenticationForm, UserCreationForm
 from django.contrib.auth.models import User
 
+
 def applogin(request):
     if request.method == 'POST':
         username = request.POST['username']
@@ -46,20 +47,26 @@ def registration(request):
             messages.error(request, "Registration failed! Please try again.")
     return render(request, 'registration.html', {"form": UserCreationForm()})
 
+
 def home(request):
-    f1 = Location.objects.all()
-    print(f1)
-    # data = Location.objects.get(id=1)
-    # print(data.latitude,data.longitude)
+    return maps(request)
 
-    # f2 = Location.objects.all().filter(addresstype="Shelter")
-    # print(f2)
-
-    return render(request, 'home.html', {'GMAP_LINK': GMAP_LINK})
 
 def maps(request):
+    f1 = Location.objects.all()
+    # print(f1)
+    # data = Location.objects.get(id=1)
+    locationData = list()
+    # print(data.latitude, data.longitude)
+    for x in f1:
+        locationData.append({
+            'lat': x.latitude,
+            'long': x.longitude,
+            'type': x.addresstype})
+    locationData = json.dumps(locationData)
+    print(locationData)
     return render(request, 'map.html', {'gmap_key': GOOGLE_MAPS_API_KEY})
-    print("map key",GOOGLE_MAPS_API_KEY)
+
 
 def getLongitudeLatitude(combinedAddress):
     parameters = {
