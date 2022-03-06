@@ -13,7 +13,7 @@ function initMap() {
     var data = JSON.parse(src1);
     var center = { lat: 43.161030, lng: -77.610924 };
     var map = new google.maps.Map(document.getElementById("map"), {
-		zoom: 10,
+		zoom: 11.5,
 		center: center,
 	});
 	var marker = new google.maps.Marker({
@@ -30,7 +30,7 @@ function initMap() {
           fillOpacity: 0.35,
           map,
           center: { lat: data[x].lat, lng: data[x].long },
-          radius:  1000,
+          radius:  1500,
              });
 
             }
@@ -38,9 +38,9 @@ function initMap() {
 	     else {
 	     var image  = ""
 	     if(data[x].type == "Shelter"){
-	        image= "http://maps.google.com/mapfiles/kml/shapes/ranger_station.png"
+	        image= "https://maps.google.com/mapfiles/kml/pal2/icon2.png"
 	     }else if(data[x].type == "Transport"){
-	        image= "http://maps.google.com/mapfiles/kml/shapes/bus.png"
+	        image= "https://maps.google.com/mapfiles/kml/pal4/icon7.png"
 	     }else{
 	        image= "http://maps.google.com/mapfiles/kml/pal3/icon46.png"
 	     }
