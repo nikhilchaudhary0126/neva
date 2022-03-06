@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	{% load static %}
+
+	<head>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+		<meta charset="utf-8" />
+		<title>Refugee Centers</title>
+    <link href="{% static 'css/maps.css'%}" type="stylesheet" />
+		<script src="{% static 'js/maps.js'%}"></script>
+	</head>
+	<body>
+		<div id="map"></div>
+		<!-- <script ></script> -->
+		<script async src="{{GMAP_LINK}}"></script>
+	</body>
+</html>

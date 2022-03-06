@@ -23,4 +23,6 @@ urlpatterns = [
     path('home/', homeview.home),
     path('login/', homeview.applogin),
     path('registration/', homeview.registration),
+    path('', homeview.home, name="home"),
+    path('post/', homeview.createPost)
 ]

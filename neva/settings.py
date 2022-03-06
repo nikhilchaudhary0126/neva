@@ -25,6 +25,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 load_dotenv()  # load env file
 # Get keys from environment - Defined them in your environment or env file before running
 SECRET_KEY = os.getenv("SECRET_KEY")
+API_KEY = os.getenv("API_KEY")
+MAP_URL = os.getenv("MAP_URL")
+GMAP_LINK = os.getenv('GMAP_LINK')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -43,6 +46,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'home.apps.HomeConfig',
 ]
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
@@ -123,6 +127,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
 STATIC_URL = '/static/'
+KML_URL = '/static/sample.kml'
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field

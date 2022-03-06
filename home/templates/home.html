@@ -1,10 +1,90 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+<html>
+  {% load static %}
 
-</body>
+  <head>
+<!--    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>-->
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>KML Click Capture Sample</title>
+    <style>
+      html, body {
+        height: 370px;
+        padding: 0;
+        margin: 0;
+        }
+      #map {
+       height: 360px;
+       width: 300px;
+       overflow: hidden;
+       float: left;
+       border: thin solid #333;
+       }
+      #capture {
+       height: 360px;
+       width: 480px;
+       overflow: hidden;
+       float: left;
+       background-color: #ECECFB;
+       border: thin solid #333;
+       border-left: none;
+       }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="capture"></div>
+    <input type="hidden" id="myVar" name="variable" value="{{GMAP_KEY}}">
+    <script>
+      var map;
+
+      var src1 = document.getElementById("myVar").value;
+
+      var src = "https://developers.google.com/maps/documentation/javascript/examples/kml/westcampus.kml";
+      console.log({{GMAP_KEY}});
+      console.log("test");
+     function initMap() {
+  var center = {lat: 41.8781, lng: -87.6298};
+  var map = new google.maps.Map(document.getElementById('map'), {
+    zoom: 10,
+    center: center
+  });
+  var marker = new google.maps.Marker({
+    position: center,
+    map: map
+  });
+
+
+var locations = [
+    ['Los Angeles', 34.052235, -118.243683],
+    ['Santa Monica', 34.024212, -118.496475],
+    ['Redondo Beach', 33.849182, -118.388405],
+    ['Newport Beach', 33.628342, -117.927933],
+    ['Long Beach', 33.770050, -118.193739]
+  ];
+
+var marker, count;
+for (count = 0; count < locations.length; count++) {
+    marker = new google.maps.Marker({
+      position: new google.maps.LatLng(locations[count][1], locations[count][2]),
+      map: map,
+      title: locations[count][0]
+    });
+google.maps.event.addListener(marker, 'click', (function (marker, count) {
+      return function () {
+      var infoWindow = new google.maps.InfoWindow({
+        content: locations[count][0]
+    });
+
+
+        infowindow.open(map, marker);
+      }
+    })(marker, count));
+  }
+  }
+    </script>
+    <script async
+    src="{{GMAP_LINK}}">
+    </script>
+  </body>
 </html>
