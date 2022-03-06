@@ -25,6 +25,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 load_dotenv()  # load env file
 # Get keys from environment - Defined them in your environment or env file before running
 SECRET_KEY = os.getenv("SECRET_KEY")
+API_KEY = os.getenv("API_KEY")
+MAP_URL = os.getenv("MAP_URL")
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
