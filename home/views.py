@@ -1,16 +1,13 @@
 import json
-
 import requests
 from django.shortcuts import render, redirect
-
 from home.forms import LocationForm
 from home.models import Location
-from neva.settings import GMAPlINK, API_KEY, MAP_URL
+from neva.settings import GMAP_LINK, API_KEY, MAP_URL
 from django.contrib import messages
 
-
 def home(request):
-    return render(request, 'home.html', {'GMAPlINK': GMAPlINK})
+    return render(request, 'home.html', {'GMAP_LINK': GMAP_LINK})
 
 
 def getLongitudeLatitude(combinedAddress):
