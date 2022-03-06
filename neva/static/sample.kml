@@ -1,0 +1,3315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Style id="10">
+            <IconStyle id="11">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="12">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="15">
+            <IconStyle id="16">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="17">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="20">
+            <IconStyle id="21">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="22">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="25">
+            <IconStyle id="26">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="27">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="30">
+            <IconStyle id="31">
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+                <heading>0</heading>
+                <Icon id="32">
+                    <href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="35">
+            <LineStyle id="36">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="39">
+            <LineStyle id="40">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="43">
+            <LineStyle id="44">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="47">
+            <LineStyle id="48">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="51">
+            <LineStyle id="52">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="55">
+            <LineStyle id="56">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="59">
+            <LineStyle id="60">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="63">
+            <LineStyle id="64">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="67">
+            <LineStyle id="68">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="71">
+            <LineStyle id="72">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="75">
+            <LineStyle id="76">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="79">
+            <LineStyle id="80">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="83">
+            <LineStyle id="84">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="87">
+            <LineStyle id="88">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="91">
+            <LineStyle id="92">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="95">
+            <LineStyle id="96">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="99">
+            <LineStyle id="100">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="103">
+            <LineStyle id="104">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="107">
+            <LineStyle id="108">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="111">
+            <LineStyle id="112">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="115">
+            <LineStyle id="116">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="119">
+            <LineStyle id="120">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="123">
+            <LineStyle id="124">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="127">
+            <LineStyle id="128">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="131">
+            <LineStyle id="132">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="135">
+            <LineStyle id="136">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="139">
+            <LineStyle id="140">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="143">
+            <LineStyle id="144">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="147">
+            <LineStyle id="148">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="151">
+            <LineStyle id="152">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="155">
+            <LineStyle id="156">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="159">
+            <LineStyle id="160">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="163">
+            <LineStyle id="164">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="167">
+            <LineStyle id="168">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="171">
+            <LineStyle id="172">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="175">
+            <LineStyle id="176">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="179">
+            <LineStyle id="180">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="183">
+            <LineStyle id="184">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="187">
+            <LineStyle id="188">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="191">
+            <LineStyle id="192">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="195">
+            <LineStyle id="196">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="199">
+            <LineStyle id="200">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="203">
+            <LineStyle id="204">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="207">
+            <LineStyle id="208">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="211">
+            <LineStyle id="212">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="215">
+            <LineStyle id="216">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="219">
+            <LineStyle id="220">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="223">
+            <LineStyle id="224">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="227">
+            <LineStyle id="228">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="231">
+            <LineStyle id="232">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="235">
+            <LineStyle id="236">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="239">
+            <LineStyle id="240">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="243">
+            <LineStyle id="244">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="247">
+            <LineStyle id="248">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="251">
+            <LineStyle id="252">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="255">
+            <LineStyle id="256">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="259">
+            <LineStyle id="260">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="263">
+            <LineStyle id="264">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="267">
+            <LineStyle id="268">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="271">
+            <LineStyle id="272">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="275">
+            <LineStyle id="276">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="279">
+            <LineStyle id="280">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="283">
+            <LineStyle id="284">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="287">
+            <LineStyle id="288">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="291">
+            <LineStyle id="292">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="295">
+            <LineStyle id="296">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="299">
+            <LineStyle id="300">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="303">
+            <LineStyle id="304">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="307">
+            <LineStyle id="308">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="311">
+            <LineStyle id="312">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="315">
+            <LineStyle id="316">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="319">
+            <LineStyle id="320">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="323">
+            <LineStyle id="324">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="327">
+            <LineStyle id="328">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="331">
+            <LineStyle id="332">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="335">
+            <LineStyle id="336">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="339">
+            <LineStyle id="340">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="343">
+            <LineStyle id="344">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="347">
+            <LineStyle id="348">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="351">
+            <LineStyle id="352">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="355">
+            <LineStyle id="356">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="359">
+            <LineStyle id="360">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="363">
+            <LineStyle id="364">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="367">
+            <LineStyle id="368">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="371">
+            <LineStyle id="372">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="375">
+            <LineStyle id="376">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="379">
+            <LineStyle id="380">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="383">
+            <LineStyle id="384">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="387">
+            <LineStyle id="388">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="391">
+            <LineStyle id="392">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="395">
+            <LineStyle id="396">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="399">
+            <LineStyle id="400">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="403">
+            <LineStyle id="404">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="407">
+            <LineStyle id="408">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="411">
+            <LineStyle id="412">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="415">
+            <LineStyle id="416">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="419">
+            <LineStyle id="420">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="423">
+            <LineStyle id="424">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="427">
+            <LineStyle id="428">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="431">
+            <LineStyle id="432">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="435">
+            <LineStyle id="436">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="439">
+            <LineStyle id="440">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="443">
+            <LineStyle id="444">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="447">
+            <LineStyle id="448">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="451">
+            <LineStyle id="452">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="455">
+            <LineStyle id="456">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="459">
+            <LineStyle id="460">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="463">
+            <LineStyle id="464">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="467">
+            <LineStyle id="468">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="471">
+            <LineStyle id="472">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="475">
+            <LineStyle id="476">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="479">
+            <LineStyle id="480">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="483">
+            <LineStyle id="484">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="487">
+            <LineStyle id="488">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="491">
+            <LineStyle id="492">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="495">
+            <LineStyle id="496">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="499">
+            <LineStyle id="500">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="503">
+            <LineStyle id="504">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="507">
+            <LineStyle id="508">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="511">
+            <LineStyle id="512">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="515">
+            <LineStyle id="516">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="519">
+            <LineStyle id="520">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="523">
+            <LineStyle id="524">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="527">
+            <LineStyle id="528">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="531">
+            <LineStyle id="532">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="535">
+            <LineStyle id="536">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="539">
+            <LineStyle id="540">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="543">
+            <LineStyle id="544">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="547">
+            <LineStyle id="548">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="551">
+            <LineStyle id="552">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="555">
+            <LineStyle id="556">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="559">
+            <LineStyle id="560">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="563">
+            <LineStyle id="564">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="567">
+            <LineStyle id="568">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="571">
+            <LineStyle id="572">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="575">
+            <LineStyle id="576">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="579">
+            <LineStyle id="580">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="583">
+            <LineStyle id="584">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="587">
+            <LineStyle id="588">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="591">
+            <LineStyle id="592">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="595">
+            <LineStyle id="596">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="599">
+            <LineStyle id="600">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="603">
+            <LineStyle id="604">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="607">
+            <LineStyle id="608">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="611">
+            <LineStyle id="612">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="615">
+            <LineStyle id="616">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="619">
+            <LineStyle id="620">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="623">
+            <LineStyle id="624">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="627">
+            <LineStyle id="628">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="631">
+            <LineStyle id="632">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="635">
+            <LineStyle id="636">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="639">
+            <LineStyle id="640">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="643">
+            <LineStyle id="644">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="647">
+            <LineStyle id="648">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="651">
+            <LineStyle id="652">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="655">
+            <LineStyle id="656">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="659">
+            <LineStyle id="660">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="663">
+            <LineStyle id="664">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="667">
+            <LineStyle id="668">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="671">
+            <LineStyle id="672">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="675">
+            <LineStyle id="676">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="679">
+            <LineStyle id="680">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="683">
+            <LineStyle id="684">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="687">
+            <LineStyle id="688">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="691">
+            <LineStyle id="692">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="695">
+            <LineStyle id="696">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="699">
+            <LineStyle id="700">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="703">
+            <LineStyle id="704">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="707">
+            <LineStyle id="708">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="711">
+            <LineStyle id="712">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="715">
+            <LineStyle id="716">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="719">
+            <LineStyle id="720">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="723">
+            <LineStyle id="724">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="727">
+            <LineStyle id="728">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="731">
+            <LineStyle id="732">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="735">
+            <LineStyle id="736">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="739">
+            <LineStyle id="740">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="743">
+            <LineStyle id="744">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="747">
+            <LineStyle id="748">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="751">
+            <LineStyle id="752">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="755">
+            <LineStyle id="756">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="759">
+            <LineStyle id="760">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="763">
+            <LineStyle id="764">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="767">
+            <LineStyle id="768">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="771">
+            <LineStyle id="772">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="775">
+            <LineStyle id="776">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="779">
+            <LineStyle id="780">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="783">
+            <LineStyle id="784">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="787">
+            <LineStyle id="788">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="791">
+            <LineStyle id="792">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="795">
+            <LineStyle id="796">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="799">
+            <LineStyle id="800">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="803">
+            <LineStyle id="804">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="807">
+            <LineStyle id="808">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="811">
+            <LineStyle id="812">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="815">
+            <LineStyle id="816">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="819">
+            <LineStyle id="820">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="823">
+            <LineStyle id="824">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="827">
+            <LineStyle id="828">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="831">
+            <LineStyle id="832">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="835">
+            <LineStyle id="836">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="839">
+            <LineStyle id="840">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="843">
+            <LineStyle id="844">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="847">
+            <LineStyle id="848">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="851">
+            <LineStyle id="852">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="855">
+            <LineStyle id="856">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="859">
+            <LineStyle id="860">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="863">
+            <LineStyle id="864">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="867">
+            <LineStyle id="868">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="871">
+            <LineStyle id="872">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="875">
+            <LineStyle id="876">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="879">
+            <LineStyle id="880">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="883">
+            <LineStyle id="884">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="887">
+            <LineStyle id="888">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="891">
+            <LineStyle id="892">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="895">
+            <LineStyle id="896">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="899">
+            <LineStyle id="900">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="903">
+            <LineStyle id="904">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="907">
+            <LineStyle id="908">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="911">
+            <LineStyle id="912">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="915">
+            <LineStyle id="916">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="919">
+            <LineStyle id="920">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="923">
+            <LineStyle id="924">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="927">
+            <LineStyle id="928">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="931">
+            <LineStyle id="932">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="935">
+            <LineStyle id="936">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="939">
+            <LineStyle id="940">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="943">
+            <LineStyle id="944">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <Style id="947">
+            <LineStyle id="948">
+                <color>ff00ffff</color>
+                <colorMode>normal</colorMode>
+            </LineStyle>
+        </Style>
+        <open>1</open>
+        <Placemark id="3">
+            <name>stopped for an errand</name>
+            <Point id="2">
+                <coordinates>-77.43775833333333,43.13836166666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>stopped for an errand</name>
+            <Point id="4">
+                <coordinates>-77.55225666666666,43.149708333333336,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>stopped for an errand</name>
+            <Point id="6">
+                <coordinates>-77.497915,43.13429333333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>stopped at stop sign</name>
+            <styleUrl>#10</styleUrl>
+            <Point id="8">
+                <coordinates>-77.53502666666667,43.14924666666667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="14">
+            <name>stopped at stop sign</name>
+            <styleUrl>#15</styleUrl>
+            <Point id="13">
+                <coordinates>-77.55279333333333,43.14944833333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>stopped at stop sign</name>
+            <styleUrl>#20</styleUrl>
+            <Point id="18">
+                <coordinates>-77.55268166666667,43.145045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="24">
+            <name>stopped at stop sign</name>
+            <styleUrl>#25</styleUrl>
+            <Point id="23">
+                <coordinates>-77.49255,43.133295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>stopped at stop sign</name>
+            <styleUrl>#30</styleUrl>
+            <Point id="28">
+                <coordinates>-77.46379833333333,43.14225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="34">
+            <name>GPS car data</name>
+            <styleUrl>#35</styleUrl>
+            <LineString id="33">
+                <coordinates>-77.43769333333333,43.138385,0.0 -77.43768833333333,43.13851,0.0 -77.43768833333333,43.13851,0.0 -77.437785,43.13862666666667,0.0 -77.437785,43.13862666666667,0.0 -77.43802333333333,43.13869,0.0 -77.43802333333333,43.13869,0.0 -77.43834666666666,43.13881166666667,0.0 -77.43834666666666,43.13881166666667,0.0 -77.43871833333333,43.138981666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="38">
+            <name>GPS car data</name>
+            <styleUrl>#39</styleUrl>
+            <LineString id="37">
+                <coordinates>-77.43871833333333,43.138981666666666,0.0 -77.43914,43.139178333333334,0.0 -77.43914,43.139178333333334,0.0 -77.43945333333333,43.13945833333333,0.0 -77.43945333333333,43.13945833333333,0.0 -77.43954833333333,43.1398,0.0 -77.43954833333333,43.1398,0.0 -77.439465,43.14017,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="42">
+            <name>GPS car data</name>
+            <styleUrl>#43</styleUrl>
+            <LineString id="41">
+                <coordinates>-77.439465,43.14017,0.0 -77.439385,43.140575,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="46">
+            <name>GPS car data</name>
+            <styleUrl>#47</styleUrl>
+            <LineString id="45">
+                <coordinates>-77.439385,43.140575,0.0 -77.43933166666666,43.14086666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="50">
+            <name>GPS car data</name>
+            <styleUrl>#51</styleUrl>
+            <LineString id="49">
+                <coordinates>-77.43933166666666,43.14086666666667,0.0 -77.43931333333333,43.14093833333333,0.0 -77.43931333333333,43.14093833333333,0.0 -77.43952166666666,43.14103,0.0 -77.43952166666666,43.14103,0.0 -77.43990333333333,43.14106,0.0 -77.43990333333333,43.14106,0.0 -77.44027,43.14111,0.0 -77.44027,43.14111,0.0 -77.44056833333333,43.141145,0.0 -77.44056833333333,43.141145,0.0 -77.44093333333333,43.14118833333333,0.0 -77.44093333333333,43.14118833333333,0.0 -77.441425,43.141236666666664,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="54">
+            <name>GPS car data</name>
+            <styleUrl>#55</styleUrl>
+            <LineString id="53">
+                <coordinates>-77.441425,43.141236666666664,0.0 -77.44203666666667,43.141275,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="58">
+            <name>GPS car data</name>
+            <styleUrl>#59</styleUrl>
+            <LineString id="57">
+                <coordinates>-77.44203666666667,43.141275,0.0 -77.44275166666667,43.14130333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="62">
+            <name>GPS car data</name>
+            <styleUrl>#63</styleUrl>
+            <LineString id="61">
+                <coordinates>-77.44275166666667,43.14130333333333,0.0 -77.44350166666666,43.141333333333336,0.0 -77.44350166666666,43.141333333333336,0.0 -77.444225,43.14133666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="66">
+            <name>GPS car data</name>
+            <styleUrl>#67</styleUrl>
+            <LineString id="65">
+                <coordinates>-77.444225,43.14133666666667,0.0 -77.44496833333334,43.14130166666666,0.0 -77.44496833333334,43.14130166666666,0.0 -77.44567,43.14127166666667,0.0 -77.44567,43.14127166666667,0.0 -77.44624333333333,43.14124,0.0 -77.44624333333333,43.14124,0.0 -77.446765,43.14120333333334,0.0 -77.446765,43.14120333333334,0.0 -77.44734,43.141171666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="70">
+            <name>GPS car data</name>
+            <styleUrl>#71</styleUrl>
+            <LineString id="69">
+                <coordinates>-77.44734,43.141171666666665,0.0 -77.44794333333333,43.14115,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="74">
+            <name>GPS car data</name>
+            <styleUrl>#75</styleUrl>
+            <LineString id="73">
+                <coordinates>-77.44794333333333,43.14115,0.0 -77.44861333333333,43.14111333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="78">
+            <name>GPS car data</name>
+            <styleUrl>#79</styleUrl>
+            <LineString id="77">
+                <coordinates>-77.44861333333333,43.14111333333334,0.0 -77.44933666666667,43.14107,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="82">
+            <name>GPS car data</name>
+            <styleUrl>#83</styleUrl>
+            <LineString id="81">
+                <coordinates>-77.44933666666667,43.14107,0.0 -77.450125,43.141016666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="86">
+            <name>GPS car data</name>
+            <styleUrl>#87</styleUrl>
+            <LineString id="85">
+                <coordinates>-77.450125,43.141016666666665,0.0 -77.45095166666667,43.14098833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="90">
+            <name>GPS car data</name>
+            <styleUrl>#91</styleUrl>
+            <LineString id="89">
+                <coordinates>-77.45095166666667,43.14098833333333,0.0 -77.45180666666667,43.14102,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="94">
+            <name>GPS car data</name>
+            <styleUrl>#95</styleUrl>
+            <LineString id="93">
+                <coordinates>-77.45180666666667,43.14102,0.0 -77.45267833333334,43.14113,0.0 -77.45267833333334,43.14113,0.0 -77.45352666666666,43.14124,0.0 -77.45352666666666,43.14124,0.0 -77.454365,43.14134333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="98">
+            <name>GPS car data</name>
+            <styleUrl>#99</styleUrl>
+            <LineString id="97">
+                <coordinates>-77.454365,43.14134333333333,0.0 -77.45522,43.141455,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="102">
+            <name>GPS car data</name>
+            <styleUrl>#103</styleUrl>
+            <LineString id="101">
+                <coordinates>-77.45522,43.141455,0.0 -77.45605666666667,43.14156,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="106">
+            <name>GPS car data</name>
+            <styleUrl>#107</styleUrl>
+            <LineString id="105">
+                <coordinates>-77.45605666666667,43.14156,0.0 -77.456875,43.14165666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="110">
+            <name>GPS car data</name>
+            <styleUrl>#111</styleUrl>
+            <LineString id="109">
+                <coordinates>-77.456875,43.14165666666667,0.0 -77.45768666666666,43.14175,0.0 -77.45768666666666,43.14175,0.0 -77.45844333333334,43.14184,0.0 -77.45844333333334,43.14184,0.0 -77.459135,43.14192333333333,0.0 -77.459135,43.14192333333333,0.0 -77.46016833333333,43.14203833333333,0.0 -77.46016833333333,43.14203833333333,0.0 -77.46087333333334,43.142111666666665,0.0 -77.46087333333334,43.142111666666665,0.0 -77.46158833333334,43.142156666666665,0.0 -77.46158833333334,43.142156666666665,0.0 -77.46223666666667,43.142183333333335,0.0 -77.46223666666667,43.142183333333335,0.0 -77.46285833333333,43.14221,0.0 -77.46285833333333,43.14221,0.0 -77.46332166666667,43.142235,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="114">
+            <name>GPS car data</name>
+            <styleUrl>#115</styleUrl>
+            <LineString id="113">
+                <coordinates>-77.46332166666667,43.142235,0.0 -77.46341833333334,43.14226,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="118">
+            <name>GPS car data</name>
+            <styleUrl>#119</styleUrl>
+            <LineString id="117">
+                <coordinates>-77.46341833333334,43.14226,0.0 -77.46374333333333,43.14233333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="122">
+            <name>GPS car data</name>
+            <styleUrl>#123</styleUrl>
+            <LineString id="121">
+                <coordinates>-77.46374333333333,43.14233333333333,0.0 -77.46433999999999,43.14234,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="126">
+            <name>GPS car data</name>
+            <styleUrl>#127</styleUrl>
+            <LineString id="125">
+                <coordinates>-77.46433999999999,43.14234,0.0 -77.46503,43.14236,0.0 -77.46503,43.14236,0.0 -77.46578666666667,43.142361666666666,0.0 -77.46578666666667,43.142361666666666,0.0 -77.46663833333334,43.14236666666667,0.0 -77.46663833333334,43.14236666666667,0.0 -77.46748,43.14238,0.0 -77.46748,43.14238,0.0 -77.46831166666666,43.14239833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="130">
+            <name>GPS car data</name>
+            <styleUrl>#131</styleUrl>
+            <LineString id="129">
+                <coordinates>-77.46831166666666,43.14239833333333,0.0 -77.46908666666667,43.142406666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="134">
+            <name>GPS car data</name>
+            <styleUrl>#135</styleUrl>
+            <LineString id="133">
+                <coordinates>-77.46908666666667,43.142406666666666,0.0 -77.46984166666667,43.142408333333336,0.0 -77.46984166666667,43.142408333333336,0.0 -77.47062666666666,43.14241833333333,0.0 -77.47062666666666,43.14241833333333,0.0 -77.471395,43.14243166666667,0.0 -77.471395,43.14243166666667,0.0 -77.47214166666667,43.14244166666667,0.0 -77.47214166666667,43.14244166666667,0.0 -77.47288,43.14245666666667,0.0 -77.47288,43.14245666666667,0.0 -77.473615,43.14247833333334,0.0 -77.473615,43.14247833333334,0.0 -77.474255,43.142493333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="138">
+            <name>GPS car data</name>
+            <styleUrl>#139</styleUrl>
+            <LineString id="137">
+                <coordinates>-77.474255,43.142493333333334,0.0 -77.474735,43.14250166666667,0.0 -77.474735,43.14250166666667,0.0 -77.47505833333334,43.14250166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="142">
+            <name>GPS car data</name>
+            <styleUrl>#143</styleUrl>
+            <LineString id="141">
+                <coordinates>-77.47505833333334,43.14250166666667,0.0 -77.47522333333333,43.14253333333333,0.0 -77.47522333333333,43.14253333333333,0.0 -77.47554,43.142525,0.0 -77.47554,43.142525,0.0 -77.476055,43.14250666666667,0.0 -77.476055,43.14250666666667,0.0 -77.47669333333333,43.14250166666667,0.0 -77.47669333333333,43.14250166666667,0.0 -77.47747333333334,43.142493333333334,0.0 -77.47747333333334,43.142493333333334,0.0 -77.47834666666667,43.14248,0.0 -77.47834666666667,43.14248,0.0 -77.47926166666667,43.14247666666667,0.0 -77.47926166666667,43.14247666666667,0.0 -77.48018666666667,43.14247666666667,0.0 -77.48018666666667,43.14247666666667,0.0 -77.48109833333334,43.1425,0.0 -77.48109833333334,43.1425,0.0 -77.48196666666666,43.14268666666667,0.0 -77.48196666666666,43.14268666666667,0.0 -77.48263833333333,43.14310666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="146">
+            <name>GPS car data</name>
+            <styleUrl>#147</styleUrl>
+            <LineString id="145">
+                <coordinates>-77.48263833333333,43.14310666666667,0.0 -77.48315666666667,43.14359666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="150">
+            <name>GPS car data</name>
+            <styleUrl>#151</styleUrl>
+            <LineString id="149">
+                <coordinates>-77.48315666666667,43.14359666666667,0.0 -77.48368166666667,43.14407833333333,0.0 -77.48368166666667,43.14407833333333,0.0 -77.484175,43.14453833333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="154">
+            <name>GPS car data</name>
+            <styleUrl>#155</styleUrl>
+            <LineString id="153">
+                <coordinates>-77.484175,43.14453833333334,0.0 -77.48461,43.144951666666664,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="158">
+            <name>GPS car data</name>
+            <styleUrl>#159</styleUrl>
+            <LineString id="157">
+                <coordinates>-77.48461,43.144951666666664,0.0 -77.4849,43.14525833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="162">
+            <name>GPS car data</name>
+            <styleUrl>#163</styleUrl>
+            <LineString id="161">
+                <coordinates>-77.4849,43.14525833333333,0.0 -77.48532833333333,43.145331666666664,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="166">
+            <name>GPS car data</name>
+            <styleUrl>#167</styleUrl>
+            <LineString id="165">
+                <coordinates>-77.48532833333333,43.145331666666664,0.0 -77.48592166666667,43.14536,0.0 -77.48592166666667,43.14536,0.0 -77.48661833333334,43.14539666666667,0.0 -77.48661833333334,43.14539666666667,0.0 -77.48738,43.14543333333334,0.0 -77.48738,43.14543333333334,0.0 -77.48817333333334,43.145473333333335,0.0 -77.48817333333334,43.145473333333335,0.0 -77.488965,43.145495,0.0 -77.488965,43.145495,0.0 -77.48975666666666,43.14553333333333,0.0 -77.48975666666666,43.14553333333333,0.0 -77.49045666666666,43.145608333333335,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="170">
+            <name>GPS car data</name>
+            <styleUrl>#171</styleUrl>
+            <LineString id="169">
+                <coordinates>-77.49045666666666,43.145608333333335,0.0 -77.49098,43.145785,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="174">
+            <name>GPS car data</name>
+            <styleUrl>#175</styleUrl>
+            <LineString id="173">
+                <coordinates>-77.49098,43.145785,0.0 -77.49133833333333,43.145825,0.0 -77.49133833333333,43.145825,0.0 -77.491485,43.14561333333333,0.0 -77.491485,43.14561333333333,0.0 -77.49178166666667,43.14535,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="178">
+            <name>GPS car data</name>
+            <styleUrl>#179</styleUrl>
+            <LineString id="177">
+                <coordinates>-77.49178166666667,43.14535,0.0 -77.49205333333333,43.14511666666667,0.0 -77.49205333333333,43.14511666666667,0.0 -77.49207666666666,43.14485333333333,0.0 -77.49207666666666,43.14485333333333,0.0 -77.492135,43.144605,0.0 -77.492135,43.144605,0.0 -77.49226333333333,43.144308333333335,0.0 -77.49226333333333,43.144308333333335,0.0 -77.492445,43.14407666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="182">
+            <name>GPS car data</name>
+            <styleUrl>#183</styleUrl>
+            <LineString id="181">
+                <coordinates>-77.492445,43.14407666666666,0.0 -77.49264166666667,43.14385166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="186">
+            <name>GPS car data</name>
+            <styleUrl>#187</styleUrl>
+            <LineString id="185">
+                <coordinates>-77.49264166666667,43.14385166666667,0.0 -77.49279166666666,43.14364166666667,0.0 -77.49279166666666,43.14364166666667,0.0 -77.492925,43.143433333333334,0.0 -77.492925,43.143433333333334,0.0 -77.49311666666667,43.14321,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="190">
+            <name>GPS car data</name>
+            <styleUrl>#191</styleUrl>
+            <LineString id="189">
+                <coordinates>-77.49311666666667,43.14321,0.0 -77.49330666666667,43.143008333333334,0.0 -77.49330666666667,43.143008333333334,0.0 -77.49345,43.142795,0.0 -77.49345,43.142795,0.0 -77.49352333333333,43.142678333333336,0.0 -77.49352333333333,43.142678333333336,0.0 -77.49355,43.14266166666667,0.0 -77.49355,43.14266166666667,0.0 -77.49359333333334,43.142585,0.0 -77.49359333333334,43.142585,0.0 -77.49371,43.14238833333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="194">
+            <name>GPS car data</name>
+            <styleUrl>#195</styleUrl>
+            <LineString id="193">
+                <coordinates>-77.49371,43.14238833333334,0.0 -77.49391666666666,43.142113333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="198">
+            <name>GPS car data</name>
+            <styleUrl>#199</styleUrl>
+            <LineString id="197">
+                <coordinates>-77.49391666666666,43.142113333333334,0.0 -77.494115,43.14181333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="202">
+            <name>GPS car data</name>
+            <styleUrl>#203</styleUrl>
+            <LineString id="201">
+                <coordinates>-77.494115,43.14181333333333,0.0 -77.494145,43.141466666666666,0.0 -77.494145,43.141466666666666,0.0 -77.49415833333333,43.14112166666666,0.0 -77.49415833333333,43.14112166666666,0.0 -77.494185,43.14079666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="206">
+            <name>GPS car data</name>
+            <styleUrl>#207</styleUrl>
+            <LineString id="205">
+                <coordinates>-77.494185,43.14079666666667,0.0 -77.49428,43.1407,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="210">
+            <name>GPS car data</name>
+            <styleUrl>#211</styleUrl>
+            <LineString id="209">
+                <coordinates>-77.49428,43.1407,0.0 -77.49422333333334,43.140545,0.0 -77.49422333333334,43.140545,0.0 -77.49394666666667,43.140328333333336,0.0 -77.49394666666667,43.140328333333336,0.0 -77.49348333333333,43.13999666666667,0.0 -77.49348333333333,43.13999666666667,0.0 -77.49297833333334,43.139545,0.0 -77.49297833333334,43.139545,0.0 -77.49263833333333,43.13902,0.0 -77.49263833333333,43.13902,0.0 -77.49242166666667,43.13844,0.0 -77.49242166666667,43.13844,0.0 -77.49221166666666,43.137838333333335,0.0 -77.49221166666666,43.137838333333335,0.0 -77.49203333333334,43.13724,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="214">
+            <name>GPS car data</name>
+            <styleUrl>#215</styleUrl>
+            <LineString id="213">
+                <coordinates>-77.49203333333334,43.13724,0.0 -77.49187166666667,43.13666666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="218">
+            <name>GPS car data</name>
+            <styleUrl>#219</styleUrl>
+            <LineString id="217">
+                <coordinates>-77.49187166666667,43.13666666666666,0.0 -77.49168166666666,43.13612833333333,0.0 -77.49168166666666,43.13612833333333,0.0 -77.49146,43.135625,0.0 -77.49146,43.135625,0.0 -77.49134,43.13509333333333,0.0 -77.49134,43.13509333333333,0.0 -77.49141333333333,43.134525,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="222">
+            <name>GPS car data</name>
+            <styleUrl>#223</styleUrl>
+            <LineString id="221">
+                <coordinates>-77.49141333333333,43.134525,0.0 -77.49162833333334,43.133988333333335,0.0 -77.49162833333334,43.133988333333335,0.0 -77.491885,43.133615,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="226">
+            <name>GPS car data</name>
+            <styleUrl>#227</styleUrl>
+            <LineString id="225">
+                <coordinates>-77.491885,43.133615,0.0 -77.49207333333334,43.13343,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="230">
+            <name>GPS car data</name>
+            <styleUrl>#231</styleUrl>
+            <LineString id="229">
+                <coordinates>-77.49207333333334,43.13343,0.0 -77.49212166666666,43.133383333333335,0.0 -77.49212166666666,43.133383333333335,0.0 -77.49213333333333,43.133375,0.0 -77.49213333333333,43.133375,0.0 -77.492255,43.13330333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="234">
+            <name>GPS car data</name>
+            <styleUrl>#235</styleUrl>
+            <LineString id="233">
+                <coordinates>-77.492255,43.13330333333333,0.0 -77.49256833333334,43.133403333333334,0.0 -77.49256833333334,43.133403333333334,0.0 -77.49303,43.133645,0.0 -77.49303,43.133645,0.0 -77.49363833333334,43.13393833333333,0.0 -77.49363833333334,43.13393833333333,0.0 -77.49433166666667,43.134296666666664,0.0 -77.49433166666667,43.134296666666664,0.0 -77.49514,43.13464333333334,0.0 -77.49514,43.13464333333334,0.0 -77.49609666666667,43.13491,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="238">
+            <name>GPS car data</name>
+            <styleUrl>#239</styleUrl>
+            <LineString id="237">
+                <coordinates>-77.49609666666667,43.13491,0.0 -77.49716333333333,43.135086666666666,0.0 -77.49716333333333,43.135086666666666,0.0 -77.498305,43.13515666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="242">
+            <name>GPS car data</name>
+            <styleUrl>#243</styleUrl>
+            <LineString id="241">
+                <coordinates>-77.498305,43.13515666666667,0.0 -77.49939,43.13509166666667,0.0 -77.49939,43.13509166666667,0.0 -77.50037666666667,43.134928333333335,0.0 -77.50037666666667,43.134928333333335,0.0 -77.501235,43.134746666666665,0.0 -77.501235,43.134746666666665,0.0 -77.50201166666666,43.13467,0.0 -77.50201166666666,43.13467,0.0 -77.502705,43.13474333333333,0.0 -77.502705,43.13474333333333,0.0 -77.50333333333333,43.13486666666667,0.0 -77.50333333333333,43.13486666666667,0.0 -77.503925,43.13498833333333,0.0 -77.503925,43.13498833333333,0.0 -77.50444,43.135095,0.0 -77.50444,43.135095,0.0 -77.50496333333334,43.13521,0.0 -77.50496333333334,43.13521,0.0 -77.50555166666666,43.13529666666667,0.0 -77.50555166666666,43.13529666666667,0.0 -77.50619166666667,43.13533666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="246">
+            <name>GPS car data</name>
+            <styleUrl>#247</styleUrl>
+            <LineString id="245">
+                <coordinates>-77.50619166666667,43.13533666666667,0.0 -77.50689333333334,43.135351666666665,0.0 -77.50689333333334,43.135351666666665,0.0 -77.50765666666666,43.135358333333336,0.0 -77.50765666666666,43.135358333333336,0.0 -77.50847166666667,43.135385,0.0 -77.50847166666667,43.135385,0.0 -77.50931333333334,43.13545,0.0 -77.50931333333334,43.13545,0.0 -77.51019,43.135526666666664,0.0 -77.51019,43.135526666666664,0.0 -77.51108666666667,43.135601666666666,0.0 -77.51108666666667,43.135601666666666,0.0 -77.51204,43.13568,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="250">
+            <name>GPS car data</name>
+            <styleUrl>#251</styleUrl>
+            <LineString id="249">
+                <coordinates>-77.51204,43.13568,0.0 -77.51297666666666,43.135751666666664,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="254">
+            <name>GPS car data</name>
+            <styleUrl>#255</styleUrl>
+            <LineString id="253">
+                <coordinates>-77.51297666666666,43.135751666666664,0.0 -77.513895,43.13581166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="258">
+            <name>GPS car data</name>
+            <styleUrl>#259</styleUrl>
+            <LineString id="257">
+                <coordinates>-77.513895,43.13581166666667,0.0 -77.51480666666667,43.135865,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="262">
+            <name>GPS car data</name>
+            <styleUrl>#263</styleUrl>
+            <LineString id="261">
+                <coordinates>-77.51480666666667,43.135865,0.0 -77.51574,43.13598,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="266">
+            <name>GPS car data</name>
+            <styleUrl>#267</styleUrl>
+            <LineString id="265">
+                <coordinates>-77.51574,43.13598,0.0 -77.51663,43.136226666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="270">
+            <name>GPS car data</name>
+            <styleUrl>#271</styleUrl>
+            <LineString id="269">
+                <coordinates>-77.51663,43.136226666666666,0.0 -77.51750333333334,43.13648166666667,0.0 -77.51750333333334,43.13648166666667,0.0 -77.51833666666667,43.13673166666667,0.0 -77.51833666666667,43.13673166666667,0.0 -77.519185,43.136986666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="274">
+            <name>GPS car data</name>
+            <styleUrl>#275</styleUrl>
+            <LineString id="273">
+                <coordinates>-77.519185,43.136986666666665,0.0 -77.52001666666666,43.137233333333334,0.0 -77.52001666666666,43.137233333333334,0.0 -77.52084,43.13744,0.0 -77.52084,43.13744,0.0 -77.52165333333333,43.137546666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="278">
+            <name>GPS car data</name>
+            <styleUrl>#279</styleUrl>
+            <LineString id="277">
+                <coordinates>-77.52165333333333,43.137546666666665,0.0 -77.52247666666666,43.137661666666666,0.0 -77.52247666666666,43.137661666666666,0.0 -77.52332,43.137746666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="282">
+            <name>GPS car data</name>
+            <styleUrl>#283</styleUrl>
+            <LineString id="281">
+                <coordinates>-77.52332,43.137746666666665,0.0 -77.524125,43.13780166666667,0.0 -77.524125,43.13780166666667,0.0 -77.52491166666667,43.13782,0.0 -77.52491166666667,43.13782,0.0 -77.52577833333334,43.13782833333333,0.0 -77.52577833333334,43.13782833333333,0.0 -77.52667166666667,43.13783,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="286">
+            <name>GPS car data</name>
+            <styleUrl>#287</styleUrl>
+            <LineString id="285">
+                <coordinates>-77.52667166666667,43.13783,0.0 -77.52748166666667,43.13784666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="290">
+            <name>GPS car data</name>
+            <styleUrl>#291</styleUrl>
+            <LineString id="289">
+                <coordinates>-77.52748166666667,43.13784666666667,0.0 -77.528245,43.13787,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="294">
+            <name>GPS car data</name>
+            <styleUrl>#295</styleUrl>
+            <LineString id="293">
+                <coordinates>-77.528245,43.13787,0.0 -77.52892333333334,43.13789333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="298">
+            <name>GPS car data</name>
+            <styleUrl>#299</styleUrl>
+            <LineString id="297">
+                <coordinates>-77.52892333333334,43.13789333333333,0.0 -77.52948666666667,43.13791833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="302">
+            <name>GPS car data</name>
+            <styleUrl>#303</styleUrl>
+            <LineString id="301">
+                <coordinates>-77.52948666666667,43.13791833333333,0.0 -77.52978333333333,43.13800833333333,0.0 -77.52978333333333,43.13800833333333,0.0 -77.52990166666666,43.138286666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="306">
+            <name>GPS car data</name>
+            <styleUrl>#307</styleUrl>
+            <LineString id="305">
+                <coordinates>-77.52990166666666,43.138286666666666,0.0 -77.529995,43.138635,0.0 -77.529995,43.138635,0.0 -77.53013166666666,43.13905833333333,0.0 -77.53013166666666,43.13905833333333,0.0 -77.53026333333334,43.139535,0.0 -77.53026333333334,43.139535,0.0 -77.53034666666667,43.139981666666664,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="310">
+            <name>GPS car data</name>
+            <styleUrl>#311</styleUrl>
+            <LineString id="309">
+                <coordinates>-77.53034666666667,43.139981666666664,0.0 -77.53019666666667,43.140411666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="314">
+            <name>GPS car data</name>
+            <styleUrl>#315</styleUrl>
+            <LineString id="313">
+                <coordinates>-77.53019666666667,43.140411666666665,0.0 -77.53000666666667,43.14083,0.0 -77.53000666666667,43.14083,0.0 -77.52976333333334,43.141263333333335,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="318">
+            <name>GPS car data</name>
+            <styleUrl>#319</styleUrl>
+            <LineString id="317">
+                <coordinates>-77.52976333333334,43.141263333333335,0.0 -77.52948666666667,43.14173,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="322">
+            <name>GPS car data</name>
+            <styleUrl>#323</styleUrl>
+            <LineString id="321">
+                <coordinates>-77.52948666666667,43.14173,0.0 -77.52918833333334,43.142185,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="326">
+            <name>GPS car data</name>
+            <styleUrl>#327</styleUrl>
+            <LineString id="325">
+                <coordinates>-77.52918833333334,43.142185,0.0 -77.52890666666667,43.14262166666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="330">
+            <name>GPS car data</name>
+            <styleUrl>#331</styleUrl>
+            <LineString id="329">
+                <coordinates>-77.52890666666667,43.14262166666666,0.0 -77.52866,43.143096666666665,0.0 -77.52866,43.143096666666665,0.0 -77.52852833333333,43.14366,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="334">
+            <name>GPS car data</name>
+            <styleUrl>#335</styleUrl>
+            <LineString id="333">
+                <coordinates>-77.52852833333333,43.14366,0.0 -77.52844833333333,43.14425333333333,0.0 -77.52844833333333,43.14425333333333,0.0 -77.52835833333333,43.14482,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="338">
+            <name>GPS car data</name>
+            <styleUrl>#339</styleUrl>
+            <LineString id="337">
+                <coordinates>-77.52835833333333,43.14482,0.0 -77.528295,43.145356666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="342">
+            <name>GPS car data</name>
+            <styleUrl>#343</styleUrl>
+            <LineString id="341">
+                <coordinates>-77.528295,43.145356666666665,0.0 -77.52826833333333,43.14591333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="346">
+            <name>GPS car data</name>
+            <styleUrl>#347</styleUrl>
+            <LineString id="345">
+                <coordinates>-77.52826833333333,43.14591333333333,0.0 -77.52824,43.14644333333333,0.0 -77.52824,43.14644333333333,0.0 -77.52820666666666,43.146953333333336,0.0 -77.52820666666666,43.146953333333336,0.0 -77.52819333333333,43.147455,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="350">
+            <name>GPS car data</name>
+            <styleUrl>#351</styleUrl>
+            <LineString id="349">
+                <coordinates>-77.52819333333333,43.147455,0.0 -77.528185,43.147913333333335,0.0 -77.528185,43.147913333333335,0.0 -77.52820833333334,43.14832166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="354">
+            <name>GPS car data</name>
+            <styleUrl>#355</styleUrl>
+            <LineString id="353">
+                <coordinates>-77.52820833333334,43.14832166666667,0.0 -77.52823,43.148666666666664,0.0 -77.52823,43.148666666666664,0.0 -77.528245,43.14899833333333,0.0 -77.528245,43.14899833333333,0.0 -77.52825333333334,43.149305,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="358">
+            <name>GPS car data</name>
+            <styleUrl>#359</styleUrl>
+            <LineString id="357">
+                <coordinates>-77.52825333333334,43.149305,0.0 -77.52826666666667,43.149406666666664,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="362">
+            <name>GPS car data</name>
+            <styleUrl>#363</styleUrl>
+            <LineString id="361">
+                <coordinates>-77.52826666666667,43.149406666666664,0.0 -77.52835333333333,43.14948166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="366">
+            <name>GPS car data</name>
+            <styleUrl>#367</styleUrl>
+            <LineString id="365">
+                <coordinates>-77.52835333333333,43.14948166666667,0.0 -77.52869,43.149495,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="370">
+            <name>GPS car data</name>
+            <styleUrl>#371</styleUrl>
+            <LineString id="369">
+                <coordinates>-77.52869,43.149495,0.0 -77.52919,43.149476666666665,0.0 -77.52919,43.149476666666665,0.0 -77.52979166666667,43.149465,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="374">
+            <name>GPS car data</name>
+            <styleUrl>#375</styleUrl>
+            <LineString id="373">
+                <coordinates>-77.52979166666667,43.149465,0.0 -77.53045166666666,43.149436666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="378">
+            <name>GPS car data</name>
+            <styleUrl>#379</styleUrl>
+            <LineString id="377">
+                <coordinates>-77.53045166666666,43.149436666666666,0.0 -77.53118666666667,43.14939833333333,0.0 -77.53118666666667,43.14939833333333,0.0 -77.53199333333333,43.149361666666664,0.0 -77.53199333333333,43.149361666666664,0.0 -77.532785,43.14931833333333,0.0 -77.532785,43.14931833333333,0.0 -77.533565,43.149285,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="382">
+            <name>GPS car data</name>
+            <styleUrl>#383</styleUrl>
+            <LineString id="381">
+                <coordinates>-77.533565,43.149285,0.0 -77.53431666666667,43.149256666666666,0.0 -77.53431666666667,43.149256666666666,0.0 -77.5348,43.14924,0.0 -77.5348,43.14924,0.0 -77.53500833333334,43.14923833333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="386">
+            <name>GPS car data</name>
+            <styleUrl>#387</styleUrl>
+            <LineString id="385">
+                <coordinates>-77.53500833333334,43.14923833333334,0.0 -77.53503833333333,43.14924666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="390">
+            <name>GPS car data</name>
+            <styleUrl>#391</styleUrl>
+            <LineString id="389">
+                <coordinates>-77.53503833333333,43.14924666666667,0.0 -77.53525833333333,43.14926833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="394">
+            <name>GPS car data</name>
+            <styleUrl>#395</styleUrl>
+            <LineString id="393">
+                <coordinates>-77.53525833333333,43.14926833333333,0.0 -77.535695,43.149271666666664,0.0 -77.535695,43.149271666666664,0.0 -77.53622,43.14928333333334,0.0 -77.53622,43.14928333333334,0.0 -77.53678833333333,43.149295,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="398">
+            <name>GPS car data</name>
+            <styleUrl>#399</styleUrl>
+            <LineString id="397">
+                <coordinates>-77.53678833333333,43.149295,0.0 -77.53745666666667,43.149298333333334,0.0 -77.53745666666667,43.149298333333334,0.0 -77.53816666666667,43.14930833333333,0.0 -77.53816666666667,43.14930833333333,0.0 -77.539015,43.149321666666665,0.0 -77.539015,43.149321666666665,0.0 -77.539945,43.14933333333333,0.0 -77.539945,43.14933333333333,0.0 -77.54078,43.149348333333336,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="402">
+            <name>GPS car data</name>
+            <styleUrl>#403</styleUrl>
+            <LineString id="401">
+                <coordinates>-77.54078,43.149348333333336,0.0 -77.54151666666667,43.14936333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="406">
+            <name>GPS car data</name>
+            <styleUrl>#407</styleUrl>
+            <LineString id="405">
+                <coordinates>-77.54151666666667,43.14936333333333,0.0 -77.54225333333333,43.149365,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="410">
+            <name>GPS car data</name>
+            <styleUrl>#411</styleUrl>
+            <LineString id="409">
+                <coordinates>-77.54225333333333,43.149365,0.0 -77.54299833333333,43.14937666666667,0.0 -77.54299833333333,43.14937666666667,0.0 -77.54373,43.14938,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="414">
+            <name>GPS car data</name>
+            <styleUrl>#415</styleUrl>
+            <LineString id="413">
+                <coordinates>-77.54373,43.14938,0.0 -77.54443833333333,43.149386666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="418">
+            <name>GPS car data</name>
+            <styleUrl>#419</styleUrl>
+            <LineString id="417">
+                <coordinates>-77.54443833333333,43.149386666666665,0.0 -77.54508166666666,43.149388333333334,0.0 -77.54508166666666,43.149388333333334,0.0 -77.54572166666667,43.14939666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="422">
+            <name>GPS car data</name>
+            <styleUrl>#423</styleUrl>
+            <LineString id="421">
+                <coordinates>-77.54572166666667,43.14939666666667,0.0 -77.54635333333333,43.149408333333334,0.0 -77.54635333333333,43.149408333333334,0.0 -77.54701833333333,43.149415,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="426">
+            <name>GPS car data</name>
+            <styleUrl>#427</styleUrl>
+            <LineString id="425">
+                <coordinates>-77.54701833333333,43.149415,0.0 -77.54770166666667,43.14941666666667,0.0 -77.54770166666667,43.14941666666667,0.0 -77.54838833333334,43.14942333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="430">
+            <name>GPS car data</name>
+            <styleUrl>#431</styleUrl>
+            <LineString id="429">
+                <coordinates>-77.54838833333334,43.14942333333333,0.0 -77.549055,43.149431666666665,0.0 -77.549055,43.149431666666665,0.0 -77.54966166666667,43.149433333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="434">
+            <name>GPS car data</name>
+            <styleUrl>#435</styleUrl>
+            <LineString id="433">
+                <coordinates>-77.54966166666667,43.149433333333334,0.0 -77.55024833333333,43.149431666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="438">
+            <name>GPS car data</name>
+            <styleUrl>#439</styleUrl>
+            <LineString id="437">
+                <coordinates>-77.55024833333333,43.149431666666665,0.0 -77.55086833333333,43.14944,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="442">
+            <name>GPS car data</name>
+            <styleUrl>#443</styleUrl>
+            <LineString id="441">
+                <coordinates>-77.55086833333333,43.14944,0.0 -77.551525,43.149458333333335,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="446">
+            <name>GPS car data</name>
+            <styleUrl>#447</styleUrl>
+            <LineString id="445">
+                <coordinates>-77.551525,43.149458333333335,0.0 -77.552095,43.149455,0.0 -77.552095,43.149455,0.0 -77.55234166666666,43.14953166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="450">
+            <name>GPS car data</name>
+            <styleUrl>#451</styleUrl>
+            <LineString id="449">
+                <coordinates>-77.55234166666666,43.14953166666667,0.0 -77.55225666666666,43.149575,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="454">
+            <name>GPS car data</name>
+            <styleUrl>#455</styleUrl>
+            <LineString id="453">
+                <coordinates>-77.55225666666666,43.149575,0.0 -77.55224833333334,43.14963,0.0 -77.55224833333334,43.14963,0.0 -77.55222166666667,43.149625,0.0 -77.55222166666667,43.149625,0.0 -77.55223,43.149658333333335,0.0 -77.55223,43.149658333333335,0.0 -77.55225166666666,43.149683333333336,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="458">
+            <name>GPS car data</name>
+            <styleUrl>#459</styleUrl>
+            <LineString id="457">
+                <coordinates>-77.55225166666666,43.149683333333336,0.0 -77.552235,43.14973666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="462">
+            <name>GPS car data</name>
+            <styleUrl>#463</styleUrl>
+            <LineString id="461">
+                <coordinates>-77.552235,43.14973666666667,0.0 -77.55228,43.149658333333335,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="466">
+            <name>GPS car data</name>
+            <styleUrl>#467</styleUrl>
+            <LineString id="465">
+                <coordinates>-77.55228,43.149658333333335,0.0 -77.552305,43.14957833333333,0.0 -77.552305,43.14957833333333,0.0 -77.552325,43.149521666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="470">
+            <name>GPS car data</name>
+            <styleUrl>#471</styleUrl>
+            <LineString id="469">
+                <coordinates>-77.552325,43.149521666666665,0.0 -77.55244333333333,43.149436666666666,0.0 -77.55244333333333,43.149436666666666,0.0 -77.55273333333334,43.14944333333333,0.0 -77.55273333333334,43.14944333333333,0.0 -77.55282833333334,43.14946333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="474">
+            <name>GPS car data</name>
+            <styleUrl>#475</styleUrl>
+            <LineString id="473">
+                <coordinates>-77.55282833333334,43.14946333333334,0.0 -77.55307,43.14942833333333,0.0 -77.55307,43.14942833333333,0.0 -77.553295,43.14920333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="478">
+            <name>GPS car data</name>
+            <styleUrl>#479</styleUrl>
+            <LineString id="477">
+                <coordinates>-77.553295,43.14920333333333,0.0 -77.55348166666667,43.14884333333333,0.0 -77.55348166666667,43.14884333333333,0.0 -77.55369666666667,43.14845833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="482">
+            <name>GPS car data</name>
+            <styleUrl>#483</styleUrl>
+            <LineString id="481">
+                <coordinates>-77.55369666666667,43.14845833333333,0.0 -77.55390666666666,43.148075,0.0 -77.55390666666666,43.148075,0.0 -77.554065,43.14776,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="486">
+            <name>GPS car data</name>
+            <styleUrl>#487</styleUrl>
+            <LineString id="485">
+                <coordinates>-77.554065,43.14776,0.0 -77.554175,43.14754,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="490">
+            <name>GPS car data</name>
+            <styleUrl>#491</styleUrl>
+            <LineString id="489">
+                <coordinates>-77.554175,43.14754,0.0 -77.55425333333334,43.14741166666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="494">
+            <name>GPS car data</name>
+            <styleUrl>#495</styleUrl>
+            <LineString id="493">
+                <coordinates>-77.55425333333334,43.14741166666666,0.0 -77.55433666666667,43.14727,0.0 -77.55433666666667,43.14727,0.0 -77.55449833333333,43.147045,0.0 -77.55449833333333,43.147045,0.0 -77.55463,43.14671333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="498">
+            <name>GPS car data</name>
+            <styleUrl>#499</styleUrl>
+            <LineString id="497">
+                <coordinates>-77.55463,43.14671333333333,0.0 -77.55471,43.146541666666664,0.0 -77.55471,43.146541666666664,0.0 -77.554745,43.14637166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="502">
+            <name>GPS car data</name>
+            <styleUrl>#503</styleUrl>
+            <LineString id="501">
+                <coordinates>-77.554745,43.14637166666667,0.0 -77.55443833333334,43.146208333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="506">
+            <name>GPS car data</name>
+            <styleUrl>#507</styleUrl>
+            <LineString id="505">
+                <coordinates>-77.55443833333334,43.146208333333334,0.0 -77.553935,43.145986666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="510">
+            <name>GPS car data</name>
+            <styleUrl>#511</styleUrl>
+            <LineString id="509">
+                <coordinates>-77.553935,43.145986666666666,0.0 -77.55343333333333,43.14570666666667,0.0 -77.55343333333333,43.14570666666667,0.0 -77.55307333333333,43.145455,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="514">
+            <name>GPS car data</name>
+            <styleUrl>#515</styleUrl>
+            <LineString id="513">
+                <coordinates>-77.55307333333333,43.145455,0.0 -77.552845,43.14526166666667,0.0 -77.552845,43.14526166666667,0.0 -77.55271833333333,43.145093333333335,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="518">
+            <name>GPS car data</name>
+            <styleUrl>#519</styleUrl>
+            <LineString id="517">
+                <coordinates>-77.55271833333333,43.145093333333335,0.0 -77.55268166666667,43.145046666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="522">
+            <name>GPS car data</name>
+            <styleUrl>#523</styleUrl>
+            <LineString id="521">
+                <coordinates>-77.55268166666667,43.145046666666666,0.0 -77.55267666666667,43.145046666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="526">
+            <name>GPS car data</name>
+            <styleUrl>#527</styleUrl>
+            <LineString id="525">
+                <coordinates>-77.55267666666667,43.145046666666666,0.0 -77.55254,43.14489833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="530">
+            <name>GPS car data</name>
+            <styleUrl>#531</styleUrl>
+            <LineString id="529">
+                <coordinates>-77.55254,43.14489833333333,0.0 -77.55230333333333,43.14470333333333,0.0 -77.55230333333333,43.14470333333333,0.0 -77.551805,43.144598333333334,0.0 -77.551805,43.144598333333334,0.0 -77.551205,43.14447666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="534">
+            <name>GPS car data</name>
+            <styleUrl>#535</styleUrl>
+            <LineString id="533">
+                <coordinates>-77.551205,43.14447666666667,0.0 -77.55055,43.14431166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="538">
+            <name>GPS car data</name>
+            <styleUrl>#539</styleUrl>
+            <LineString id="537">
+                <coordinates>-77.55055,43.14431166666667,0.0 -77.54989333333333,43.144148333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="542">
+            <name>GPS car data</name>
+            <styleUrl>#543</styleUrl>
+            <LineString id="541">
+                <coordinates>-77.54989333333333,43.144148333333334,0.0 -77.54927166666667,43.14389,0.0 -77.54927166666667,43.14389,0.0 -77.54876833333333,43.14353166666667,0.0 -77.54876833333333,43.14353166666667,0.0 -77.548365,43.143188333333335,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="546">
+            <name>GPS car data</name>
+            <styleUrl>#547</styleUrl>
+            <LineString id="545">
+                <coordinates>-77.548365,43.143188333333335,0.0 -77.54825166666667,43.142955,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="550">
+            <name>GPS car data</name>
+            <styleUrl>#551</styleUrl>
+            <LineString id="549">
+                <coordinates>-77.54825166666667,43.142955,0.0 -77.54824,43.14293,0.0 -77.54824,43.14293,0.0 -77.54814833333333,43.142828333333334,0.0 -77.54814833333333,43.142828333333334,0.0 -77.54789833333334,43.142586666666666,0.0 -77.54789833333334,43.142586666666666,0.0 -77.54753166666667,43.14227666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="554">
+            <name>GPS car data</name>
+            <styleUrl>#555</styleUrl>
+            <LineString id="553">
+                <coordinates>-77.54753166666667,43.14227666666667,0.0 -77.54705333333334,43.14194833333333,0.0 -77.54705333333334,43.14194833333333,0.0 -77.54646833333334,43.141641666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="558">
+            <name>GPS car data</name>
+            <styleUrl>#559</styleUrl>
+            <LineString id="557">
+                <coordinates>-77.54646833333334,43.141641666666665,0.0 -77.54587833333333,43.14134333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="562">
+            <name>GPS car data</name>
+            <styleUrl>#563</styleUrl>
+            <LineString id="561">
+                <coordinates>-77.54587833333333,43.14134333333333,0.0 -77.54528833333333,43.141035,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="566">
+            <name>GPS car data</name>
+            <styleUrl>#567</styleUrl>
+            <LineString id="565">
+                <coordinates>-77.54528833333333,43.141035,0.0 -77.54469333333333,43.140728333333335,0.0 -77.54469333333333,43.140728333333335,0.0 -77.54408166666667,43.14040833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="570">
+            <name>GPS car data</name>
+            <styleUrl>#571</styleUrl>
+            <LineString id="569">
+                <coordinates>-77.54408166666667,43.14040833333333,0.0 -77.543455,43.140085,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="574">
+            <name>GPS car data</name>
+            <styleUrl>#575</styleUrl>
+            <LineString id="573">
+                <coordinates>-77.543455,43.140085,0.0 -77.54282333333333,43.13977,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="578">
+            <name>GPS car data</name>
+            <styleUrl>#579</styleUrl>
+            <LineString id="577">
+                <coordinates>-77.54282333333333,43.13977,0.0 -77.542205,43.13944333333333,0.0 -77.542205,43.13944333333333,0.0 -77.54166666666667,43.139086666666664,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="582">
+            <name>GPS car data</name>
+            <styleUrl>#583</styleUrl>
+            <LineString id="581">
+                <coordinates>-77.54166666666667,43.139086666666664,0.0 -77.541205,43.13871666666667,0.0 -77.541205,43.13871666666667,0.0 -77.54068833333334,43.138353333333335,0.0 -77.54068833333334,43.138353333333335,0.0 -77.54022833333333,43.13801,0.0 -77.54022833333333,43.13801,0.0 -77.53979166666667,43.13769,0.0 -77.53979166666667,43.13769,0.0 -77.53941166666667,43.137405,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="586">
+            <name>GPS car data</name>
+            <styleUrl>#587</styleUrl>
+            <LineString id="585">
+                <coordinates>-77.53941166666667,43.137405,0.0 -77.539375,43.13740166666667,0.0 -77.539375,43.13740166666667,0.0 -77.539075,43.137456666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="590">
+            <name>GPS car data</name>
+            <styleUrl>#591</styleUrl>
+            <LineString id="589">
+                <coordinates>-77.539075,43.137456666666665,0.0 -77.53855,43.137528333333336,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="594">
+            <name>GPS car data</name>
+            <styleUrl>#595</styleUrl>
+            <LineString id="593">
+                <coordinates>-77.53855,43.137528333333336,0.0 -77.53784833333333,43.13755833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="598">
+            <name>GPS car data</name>
+            <styleUrl>#599</styleUrl>
+            <LineString id="597">
+                <coordinates>-77.53784833333333,43.13755833333333,0.0 -77.5371,43.1376,0.0 -77.5371,43.1376,0.0 -77.53628666666667,43.13763333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="602">
+            <name>GPS car data</name>
+            <styleUrl>#603</styleUrl>
+            <LineString id="601">
+                <coordinates>-77.53628666666667,43.13763333333333,0.0 -77.53545333333334,43.13766,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="606">
+            <name>GPS car data</name>
+            <styleUrl>#607</styleUrl>
+            <LineString id="605">
+                <coordinates>-77.53545333333334,43.13766,0.0 -77.53455333333333,43.13769,0.0 -77.53455333333333,43.13769,0.0 -77.53363833333333,43.13772,0.0 -77.53363833333333,43.13772,0.0 -77.53275166666667,43.137748333333334,0.0 -77.53275166666667,43.137748333333334,0.0 -77.53186,43.13780666666667,0.0 -77.53186,43.13780666666667,0.0 -77.53097,43.13787833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="610">
+            <name>GPS car data</name>
+            <styleUrl>#611</styleUrl>
+            <LineString id="609">
+                <coordinates>-77.53097,43.13787833333333,0.0 -77.53008,43.13793,0.0 -77.53008,43.13793,0.0 -77.52928833333333,43.13793666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="614">
+            <name>GPS car data</name>
+            <styleUrl>#615</styleUrl>
+            <LineString id="613">
+                <coordinates>-77.52928833333333,43.13793666666667,0.0 -77.528505,43.13789166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="618">
+            <name>GPS car data</name>
+            <styleUrl>#619</styleUrl>
+            <LineString id="617">
+                <coordinates>-77.528505,43.13789166666667,0.0 -77.527715,43.13785333333333,0.0 -77.527715,43.13785333333333,0.0 -77.52687666666667,43.13786,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="622">
+            <name>GPS car data</name>
+            <styleUrl>#623</styleUrl>
+            <LineString id="621">
+                <coordinates>-77.52687666666667,43.13786,0.0 -77.52597333333334,43.13784,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="626">
+            <name>GPS car data</name>
+            <styleUrl>#627</styleUrl>
+            <LineString id="625">
+                <coordinates>-77.52597333333334,43.13784,0.0 -77.52511833333334,43.13782833333333,0.0 -77.52511833333334,43.13782833333333,0.0 -77.52430666666666,43.137813333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="630">
+            <name>GPS car data</name>
+            <styleUrl>#631</styleUrl>
+            <LineString id="629">
+                <coordinates>-77.52430666666666,43.137813333333334,0.0 -77.52351333333333,43.137768333333334,0.0 -77.52351333333333,43.137768333333334,0.0 -77.52266833333333,43.13769166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="634">
+            <name>GPS car data</name>
+            <styleUrl>#635</styleUrl>
+            <LineString id="633">
+                <coordinates>-77.52266833333333,43.13769166666667,0.0 -77.52173666666667,43.13755833333333,0.0 -77.52173666666667,43.13755833333333,0.0 -77.52087333333333,43.137436666666666,0.0 -77.52087333333333,43.137436666666666,0.0 -77.52004333333333,43.13726333333334,0.0 -77.52004333333333,43.13726333333334,0.0 -77.51923,43.136995,0.0 -77.51923,43.136995,0.0 -77.51840166666666,43.136723333333336,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="638">
+            <name>GPS car data</name>
+            <styleUrl>#639</styleUrl>
+            <LineString id="637">
+                <coordinates>-77.51840166666666,43.136723333333336,0.0 -77.51753166666667,43.136465,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="642">
+            <name>GPS car data</name>
+            <styleUrl>#643</styleUrl>
+            <LineString id="641">
+                <coordinates>-77.51753166666667,43.136465,0.0 -77.51666833333333,43.13621166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="646">
+            <name>GPS car data</name>
+            <styleUrl>#647</styleUrl>
+            <LineString id="645">
+                <coordinates>-77.51666833333333,43.13621166666667,0.0 -77.515805,43.13595,0.0 -77.515805,43.13595,0.0 -77.51488333333333,43.135776666666665,0.0 -77.51488333333333,43.135776666666665,0.0 -77.51396666666666,43.13572166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="650">
+            <name>GPS car data</name>
+            <styleUrl>#651</styleUrl>
+            <LineString id="649">
+                <coordinates>-77.51396666666666,43.13572166666667,0.0 -77.51307333333334,43.13568333333333,0.0 -77.51307333333334,43.13568333333333,0.0 -77.51216833333334,43.13561,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="654">
+            <name>GPS car data</name>
+            <styleUrl>#655</styleUrl>
+            <LineString id="653">
+                <coordinates>-77.51216833333334,43.13561,0.0 -77.51125166666667,43.135535,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="658">
+            <name>GPS car data</name>
+            <styleUrl>#659</styleUrl>
+            <LineString id="657">
+                <coordinates>-77.51125166666667,43.135535,0.0 -77.510335,43.135466666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="662">
+            <name>GPS car data</name>
+            <styleUrl>#663</styleUrl>
+            <LineString id="661">
+                <coordinates>-77.510335,43.135466666666666,0.0 -77.5094,43.135385,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="666">
+            <name>GPS car data</name>
+            <styleUrl>#667</styleUrl>
+            <LineString id="665">
+                <coordinates>-77.5094,43.135385,0.0 -77.50848333333333,43.13531666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="670">
+            <name>GPS car data</name>
+            <styleUrl>#671</styleUrl>
+            <LineString id="669">
+                <coordinates>-77.50848333333333,43.13531666666667,0.0 -77.50761333333334,43.13527166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="674">
+            <name>GPS car data</name>
+            <styleUrl>#675</styleUrl>
+            <LineString id="673">
+                <coordinates>-77.50761333333334,43.13527166666667,0.0 -77.50678833333333,43.13524666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="678">
+            <name>GPS car data</name>
+            <styleUrl>#679</styleUrl>
+            <LineString id="677">
+                <coordinates>-77.50678833333333,43.13524666666667,0.0 -77.50600166666666,43.13523166666667,0.0 -77.50600166666666,43.13523166666667,0.0 -77.50529166666666,43.135191666666664,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="682">
+            <name>GPS car data</name>
+            <styleUrl>#683</styleUrl>
+            <LineString id="681">
+                <coordinates>-77.50529166666666,43.135191666666664,0.0 -77.50462,43.13509333333333,0.0 -77.50462,43.13509333333333,0.0 -77.50389,43.13498666666667,0.0 -77.50389,43.13498666666667,0.0 -77.50307833333333,43.13487,0.0 -77.50307833333333,43.13487,0.0 -77.50219666666666,43.134715,0.0 -77.50219666666666,43.134715,0.0 -77.501245,43.13466833333333,0.0 -77.501245,43.13466833333333,0.0 -77.500335,43.13482333333334,0.0 -77.500335,43.13482333333334,0.0 -77.499485,43.13498666666667,0.0 -77.499485,43.13498666666667,0.0 -77.49863,43.13506666666667,0.0 -77.49863,43.13506666666667,0.0 -77.49776666666666,43.135081666666665,0.0 -77.49776666666666,43.135081666666665,0.0 -77.49705166666666,43.13502,0.0 -77.49705166666666,43.13502,0.0 -77.49669833333333,43.13492,0.0 -77.49669833333333,43.13492,0.0 -77.49672833333334,43.134701666666665,0.0 -77.49672833333334,43.134701666666665,0.0 -77.496965,43.134565,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="686">
+            <name>GPS car data</name>
+            <styleUrl>#687</styleUrl>
+            <LineString id="685">
+                <coordinates>-77.496965,43.134565,0.0 -77.49727166666666,43.13442,0.0 -77.49727166666666,43.13442,0.0 -77.49755833333333,43.1343,0.0 -77.49755833333333,43.1343,0.0 -77.49776666666666,43.13422166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="690">
+            <name>GPS car data</name>
+            <styleUrl>#691</styleUrl>
+            <LineString id="689">
+                <coordinates>-77.49776666666666,43.13422166666667,0.0 -77.497915,43.13428833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="694">
+            <name>GPS car data</name>
+            <styleUrl>#695</styleUrl>
+            <LineString id="693">
+                <coordinates>-77.497915,43.13428833333333,0.0 -77.49792166666667,43.13431833333333,0.0 -77.49792166666667,43.13431833333333,0.0 -77.49782833333333,43.13439833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="698">
+            <name>GPS car data</name>
+            <styleUrl>#699</styleUrl>
+            <LineString id="697">
+                <coordinates>-77.49782833333333,43.13439833333333,0.0 -77.49760833333333,43.134373333333336,0.0 -77.49760833333333,43.134373333333336,0.0 -77.49737,43.134433333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="702">
+            <name>GPS car data</name>
+            <styleUrl>#703</styleUrl>
+            <LineString id="701">
+                <coordinates>-77.49737,43.134433333333334,0.0 -77.49719,43.13458,0.0 -77.49719,43.13458,0.0 -77.49704666666666,43.134706666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="706">
+            <name>GPS car data</name>
+            <styleUrl>#707</styleUrl>
+            <LineString id="705">
+                <coordinates>-77.49704666666666,43.134706666666666,0.0 -77.49685333333333,43.13465,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="710">
+            <name>GPS car data</name>
+            <styleUrl>#711</styleUrl>
+            <LineString id="709">
+                <coordinates>-77.49685333333333,43.13465,0.0 -77.49665666666667,43.13464666666667,0.0 -77.49665666666667,43.13464666666667,0.0 -77.49656833333333,43.13480833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="714">
+            <name>GPS car data</name>
+            <styleUrl>#715</styleUrl>
+            <LineString id="713">
+                <coordinates>-77.49656833333333,43.13480833333333,0.0 -77.49642166666666,43.134875,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="718">
+            <name>GPS car data</name>
+            <styleUrl>#719</styleUrl>
+            <LineString id="717">
+                <coordinates>-77.49642166666666,43.134875,0.0 -77.496005,43.134835,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="722">
+            <name>GPS car data</name>
+            <styleUrl>#723</styleUrl>
+            <LineString id="721">
+                <coordinates>-77.496005,43.134835,0.0 -77.49547,43.134683333333335,0.0 -77.49547,43.134683333333335,0.0 -77.49484833333334,43.13446666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="726">
+            <name>GPS car data</name>
+            <styleUrl>#727</styleUrl>
+            <LineString id="725">
+                <coordinates>-77.49484833333334,43.13446666666667,0.0 -77.49426166666667,43.134193333333336,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="730">
+            <name>GPS car data</name>
+            <styleUrl>#731</styleUrl>
+            <LineString id="729">
+                <coordinates>-77.49426166666667,43.134193333333336,0.0 -77.49374166666666,43.13392833333333,0.0 -77.49374166666666,43.13392833333333,0.0 -77.493295,43.133691666666664,0.0 -77.493295,43.133691666666664,0.0 -77.492895,43.13348166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="734">
+            <name>GPS car data</name>
+            <styleUrl>#735</styleUrl>
+            <LineString id="733">
+                <coordinates>-77.492895,43.13348166666667,0.0 -77.49261666666666,43.133345,0.0 -77.49261666666666,43.133345,0.0 -77.49254833333333,43.133295,0.0 -77.49254833333333,43.133295,0.0 -77.492555,43.13328,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="738">
+            <name>GPS car data</name>
+            <styleUrl>#739</styleUrl>
+            <LineString id="737">
+                <coordinates>-77.492555,43.13328,0.0 -77.49234333333334,43.13321666666667,0.0 -77.49234333333334,43.13321666666667,0.0 -77.49208833333333,43.13336,0.0 -77.49208833333333,43.13336,0.0 -77.49182166666667,43.13368166666667,0.0 -77.49182166666667,43.13368166666667,0.0 -77.49159666666667,43.13408,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="742">
+            <name>GPS car data</name>
+            <styleUrl>#743</styleUrl>
+            <LineString id="741">
+                <coordinates>-77.49159666666667,43.13408,0.0 -77.491435,43.13455166666667,0.0 -77.491435,43.13455166666667,0.0 -77.49138166666667,43.13508,0.0 -77.49138166666667,43.13508,0.0 -77.49147833333333,43.13558166666667,0.0 -77.49147833333333,43.13558166666667,0.0 -77.49165166666667,43.136075,0.0 -77.49165166666667,43.136075,0.0 -77.49181833333333,43.13657,0.0 -77.49181833333333,43.13657,0.0 -77.49196333333333,43.137103333333336,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="746">
+            <name>GPS car data</name>
+            <styleUrl>#747</styleUrl>
+            <LineString id="745">
+                <coordinates>-77.49196333333333,43.137103333333336,0.0 -77.49212,43.137658333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="750">
+            <name>GPS car data</name>
+            <styleUrl>#751</styleUrl>
+            <LineString id="749">
+                <coordinates>-77.49212,43.137658333333334,0.0 -77.49228833333333,43.13822666666667,0.0 -77.49228833333333,43.13822666666667,0.0 -77.492465,43.138815,0.0 -77.492465,43.138815,0.0 -77.49268833333333,43.139375,0.0 -77.49268833333333,43.139375,0.0 -77.49303666666667,43.139871666666664,0.0 -77.49303666666667,43.139871666666664,0.0 -77.49343166666667,43.14022,0.0 -77.49343166666667,43.14022,0.0 -77.49383666666667,43.140478333333334,0.0 -77.49383666666667,43.140478333333334,0.0 -77.494115,43.140665,0.0 -77.494115,43.140665,0.0 -77.49409333333334,43.14093,0.0 -77.49409333333334,43.14093,0.0 -77.49408166666667,43.14116333333333,0.0 -77.49408166666667,43.14116333333333,0.0 -77.49407333333333,43.14132333333333,0.0 -77.49407333333333,43.14132333333333,0.0 -77.49405166666666,43.14154833333333,0.0 -77.49405166666666,43.14154833333333,0.0 -77.49402666666667,43.14179333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="754">
+            <name>GPS car data</name>
+            <styleUrl>#755</styleUrl>
+            <LineString id="753">
+                <coordinates>-77.49402666666667,43.14179333333333,0.0 -77.49391666666666,43.142048333333335,0.0 -77.49391666666666,43.142048333333335,0.0 -77.493755,43.142265,0.0 -77.493755,43.142265,0.0 -77.49359833333334,43.14248,0.0 -77.49359833333334,43.14248,0.0 -77.49347333333333,43.142628333333334,0.0 -77.49347333333333,43.142628333333334,0.0 -77.49333,43.142786666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="758">
+            <name>GPS car data</name>
+            <styleUrl>#759</styleUrl>
+            <LineString id="757">
+                <coordinates>-77.49333,43.142786666666666,0.0 -77.4932,43.142995,0.0 -77.4932,43.142995,0.0 -77.493065,43.14318166666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="762">
+            <name>GPS car data</name>
+            <styleUrl>#763</styleUrl>
+            <LineString id="761">
+                <coordinates>-77.493065,43.14318166666666,0.0 -77.49293666666667,43.14340166666667,0.0 -77.49293666666667,43.14340166666667,0.0 -77.492775,43.14363,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="766">
+            <name>GPS car data</name>
+            <styleUrl>#767</styleUrl>
+            <LineString id="765">
+                <coordinates>-77.492775,43.14363,0.0 -77.49261666666666,43.143843333333336,0.0 -77.49261666666666,43.143843333333336,0.0 -77.49244333333333,43.14406,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="770">
+            <name>GPS car data</name>
+            <styleUrl>#771</styleUrl>
+            <LineString id="769">
+                <coordinates>-77.49244333333333,43.14406,0.0 -77.49228166666667,43.14427166666667,0.0 -77.49228166666667,43.14427166666667,0.0 -77.49210333333333,43.144551666666665,0.0 -77.49210333333333,43.144551666666665,0.0 -77.49202,43.14485833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="774">
+            <name>GPS car data</name>
+            <styleUrl>#775</styleUrl>
+            <LineString id="773">
+                <coordinates>-77.49202,43.14485833333333,0.0 -77.49192666666667,43.145136666666666,0.0 -77.49192666666667,43.145136666666666,0.0 -77.491635,43.14536833333333,0.0 -77.491635,43.14536833333333,0.0 -77.49140833333334,43.14556,0.0 -77.49140833333334,43.14556,0.0 -77.49128,43.145736666666664,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="778">
+            <name>GPS car data</name>
+            <styleUrl>#779</styleUrl>
+            <LineString id="777">
+                <coordinates>-77.49128,43.145736666666664,0.0 -77.49122666666666,43.145801666666664,0.0 -77.49122666666666,43.145801666666664,0.0 -77.49102,43.14579666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="782">
+            <name>GPS car data</name>
+            <styleUrl>#783</styleUrl>
+            <LineString id="781">
+                <coordinates>-77.49102,43.14579666666667,0.0 -77.49066833333333,43.14572833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="786">
+            <name>GPS car data</name>
+            <styleUrl>#787</styleUrl>
+            <LineString id="785">
+                <coordinates>-77.49066833333333,43.14572833333333,0.0 -77.49006833333334,43.145605,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="790">
+            <name>GPS car data</name>
+            <styleUrl>#791</styleUrl>
+            <LineString id="789">
+                <coordinates>-77.49006833333334,43.145605,0.0 -77.48959,43.14554666666667,0.0 -77.48959,43.14554666666667,0.0 -77.489255,43.145535,0.0 -77.489255,43.145535,0.0 -77.48899333333334,43.145496666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="794">
+            <name>GPS car data</name>
+            <styleUrl>#795</styleUrl>
+            <LineString id="793">
+                <coordinates>-77.48899333333334,43.145496666666666,0.0 -77.48879833333334,43.14548166666667,0.0 -77.48879833333334,43.14548166666667,0.0 -77.48866833333334,43.145455,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="798">
+            <name>GPS car data</name>
+            <styleUrl>#799</styleUrl>
+            <LineString id="797">
+                <coordinates>-77.48866833333334,43.145455,0.0 -77.48852333333333,43.14544,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="802">
+            <name>GPS car data</name>
+            <styleUrl>#803</styleUrl>
+            <LineString id="801">
+                <coordinates>-77.48852333333333,43.14544,0.0 -77.48827833333333,43.145405,0.0 -77.48827833333333,43.145405,0.0 -77.48792,43.14536833333333,0.0 -77.48792,43.14536833333333,0.0 -77.487405,43.14537166666667,0.0 -77.487405,43.14537166666667,0.0 -77.48683166666666,43.145376666666664,0.0 -77.48683166666666,43.145376666666664,0.0 -77.48632666666667,43.14534166666667,0.0 -77.48632666666667,43.14534166666667,0.0 -77.48584,43.145316666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="806">
+            <name>GPS car data</name>
+            <styleUrl>#807</styleUrl>
+            <LineString id="805">
+                <coordinates>-77.48584,43.145316666666666,0.0 -77.48541833333333,43.14529,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="810">
+            <name>GPS car data</name>
+            <styleUrl>#811</styleUrl>
+            <LineString id="809">
+                <coordinates>-77.48541833333333,43.14529,0.0 -77.4852,43.145268333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="814">
+            <name>GPS car data</name>
+            <styleUrl>#815</styleUrl>
+            <LineString id="813">
+                <coordinates>-77.4852,43.145268333333334,0.0 -77.48500833333334,43.14518833333333,0.0 -77.48500833333334,43.14518833333333,0.0 -77.48473166666666,43.14490833333333,0.0 -77.48473166666666,43.14490833333333,0.0 -77.48440166666667,43.14459,0.0 -77.48440166666667,43.14459,0.0 -77.48408,43.144305,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="818">
+            <name>GPS car data</name>
+            <styleUrl>#819</styleUrl>
+            <LineString id="817">
+                <coordinates>-77.48408,43.144305,0.0 -77.48372833333333,43.14398833333333,0.0 -77.48372833333333,43.14398833333333,0.0 -77.48331,43.143611666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="822">
+            <name>GPS car data</name>
+            <styleUrl>#823</styleUrl>
+            <LineString id="821">
+                <coordinates>-77.48331,43.143611666666665,0.0 -77.482835,43.143193333333336,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="826">
+            <name>GPS car data</name>
+            <styleUrl>#827</styleUrl>
+            <LineString id="825">
+                <coordinates>-77.482835,43.143193333333336,0.0 -77.4823,43.142765,0.0 -77.4823,43.142765,0.0 -77.481625,43.142445,0.0 -77.481625,43.142445,0.0 -77.48087166666667,43.14234833333333,0.0 -77.48087166666667,43.14234833333333,0.0 -77.48007166666666,43.142363333333336,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="830">
+            <name>GPS car data</name>
+            <styleUrl>#831</styleUrl>
+            <LineString id="829">
+                <coordinates>-77.48007166666666,43.142363333333336,0.0 -77.47928166666667,43.142381666666665,0.0 -77.47928166666667,43.142381666666665,0.0 -77.47849833333333,43.142406666666666,0.0 -77.47849833333333,43.142406666666666,0.0 -77.47771833333333,43.14244,0.0 -77.47771833333333,43.14244,0.0 -77.476935,43.142465,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="834">
+            <name>GPS car data</name>
+            <styleUrl>#835</styleUrl>
+            <LineString id="833">
+                <coordinates>-77.476935,43.142465,0.0 -77.47635333333334,43.14246,0.0 -77.47635333333334,43.14246,0.0 -77.47601333333333,43.14246,0.0 -77.47601333333333,43.14246,0.0 -77.475705,43.142451666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="838">
+            <name>GPS car data</name>
+            <styleUrl>#839</styleUrl>
+            <LineString id="837">
+                <coordinates>-77.475705,43.142451666666666,0.0 -77.47526166666667,43.14243,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="842">
+            <name>GPS car data</name>
+            <styleUrl>#843</styleUrl>
+            <LineString id="841">
+                <coordinates>-77.47526166666667,43.14243,0.0 -77.47465,43.14241833333333,0.0 -77.47465,43.14241833333333,0.0 -77.47409833333333,43.142421666666664,0.0 -77.47409833333333,43.142421666666664,0.0 -77.47348166666667,43.14242,0.0 -77.47348166666667,43.14242,0.0 -77.4728,43.14241166666667,0.0 -77.4728,43.14241166666667,0.0 -77.472115,43.14239,0.0 -77.472115,43.14239,0.0 -77.47145833333333,43.142375,0.0 -77.47145833333333,43.142375,0.0 -77.47073833333333,43.14236666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="846">
+            <name>GPS car data</name>
+            <styleUrl>#847</styleUrl>
+            <LineString id="845">
+                <coordinates>-77.47073833333333,43.14236666666667,0.0 -77.46997333333333,43.14235,0.0 -77.46997333333333,43.14235,0.0 -77.469185,43.142338333333335,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="850">
+            <name>GPS car data</name>
+            <styleUrl>#851</styleUrl>
+            <LineString id="849">
+                <coordinates>-77.469185,43.142338333333335,0.0 -77.46844166666666,43.14234,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="854">
+            <name>GPS car data</name>
+            <styleUrl>#855</styleUrl>
+            <LineString id="853">
+                <coordinates>-77.46844166666666,43.14234,0.0 -77.46766333333333,43.142336666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="858">
+            <name>GPS car data</name>
+            <styleUrl>#859</styleUrl>
+            <LineString id="857">
+                <coordinates>-77.46766333333333,43.142336666666665,0.0 -77.466865,43.142318333333336,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="862">
+            <name>GPS car data</name>
+            <styleUrl>#863</styleUrl>
+            <LineString id="861">
+                <coordinates>-77.466865,43.142318333333336,0.0 -77.46613333333333,43.1423,0.0 -77.46613333333333,43.1423,0.0 -77.46551666666667,43.14227666666667,0.0 -77.46551666666667,43.14227666666667,0.0 -77.464975,43.142266666666664,0.0 -77.464975,43.142266666666664,0.0 -77.46440166666666,43.14225833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="866">
+            <name>GPS car data</name>
+            <styleUrl>#867</styleUrl>
+            <LineString id="865">
+                <coordinates>-77.46440166666666,43.14225833333333,0.0 -77.46395666666666,43.14225833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="870">
+            <name>GPS car data</name>
+            <styleUrl>#871</styleUrl>
+            <LineString id="869">
+                <coordinates>-77.46395666666666,43.14225833333333,0.0 -77.46379333333333,43.14225666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="874">
+            <name>GPS car data</name>
+            <styleUrl>#875</styleUrl>
+            <LineString id="873">
+                <coordinates>-77.46379333333333,43.14225666666667,0.0 -77.46380166666667,43.14223333333333,0.0 -77.46380166666667,43.14223333333333,0.0 -77.463455,43.142201666666665,0.0 -77.463455,43.142201666666665,0.0 -77.46284833333333,43.14216833333333,0.0 -77.46284833333333,43.14216833333333,0.0 -77.46214333333333,43.14210666666666,0.0 -77.46214333333333,43.14210666666666,0.0 -77.46135166666667,43.142066666666665,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="878">
+            <name>GPS car data</name>
+            <styleUrl>#879</styleUrl>
+            <LineString id="877">
+                <coordinates>-77.46135166666667,43.142066666666665,0.0 -77.460475,43.14201333333333,0.0 -77.460475,43.14201333333333,0.0 -77.45956833333334,43.141913333333335,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="882">
+            <name>GPS car data</name>
+            <styleUrl>#883</styleUrl>
+            <LineString id="881">
+                <coordinates>-77.45956833333334,43.141913333333335,0.0 -77.45860833333333,43.141803333333336,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="886">
+            <name>GPS car data</name>
+            <styleUrl>#887</styleUrl>
+            <LineString id="885">
+                <coordinates>-77.45860833333333,43.141803333333336,0.0 -77.45758166666667,43.14169,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="890">
+            <name>GPS car data</name>
+            <styleUrl>#891</styleUrl>
+            <LineString id="889">
+                <coordinates>-77.45758166666667,43.14169,0.0 -77.45655833333333,43.14158166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="894">
+            <name>GPS car data</name>
+            <styleUrl>#895</styleUrl>
+            <LineString id="893">
+                <coordinates>-77.45655833333333,43.14158166666667,0.0 -77.455625,43.14147833333333,0.0 -77.455625,43.14147833333333,0.0 -77.45484166666667,43.14138833333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="898">
+            <name>GPS car data</name>
+            <styleUrl>#899</styleUrl>
+            <LineString id="897">
+                <coordinates>-77.45484166666667,43.14138833333333,0.0 -77.45414333333333,43.14131,0.0 -77.45414333333333,43.14131,0.0 -77.45352333333334,43.14123,0.0 -77.45352333333334,43.14123,0.0 -77.45297,43.14116,0.0 -77.45297,43.14116,0.0 -77.45248166666667,43.14109333333333,0.0 -77.45248166666667,43.14109333333333,0.0 -77.45203,43.14107,0.0 -77.45203,43.14107,0.0 -77.451485,43.140995,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="902">
+            <name>GPS car data</name>
+            <styleUrl>#903</styleUrl>
+            <LineString id="901">
+                <coordinates>-77.451485,43.140995,0.0 -77.4508,43.14093666666667,0.0 -77.4508,43.14093666666667,0.0 -77.45003833333334,43.140951666666666,0.0 -77.45003833333334,43.140951666666666,0.0 -77.44921833333333,43.141005,0.0 -77.44921833333333,43.141005,0.0 -77.448385,43.141063333333335,0.0 -77.448385,43.141063333333335,0.0 -77.447525,43.141101666666664,0.0 -77.447525,43.141101666666664,0.0 -77.44668333333334,43.14116166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="906">
+            <name>GPS car data</name>
+            <styleUrl>#907</styleUrl>
+            <LineString id="905">
+                <coordinates>-77.44668333333334,43.14116166666667,0.0 -77.44587,43.14121333333333,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="910">
+            <name>GPS car data</name>
+            <styleUrl>#911</styleUrl>
+            <LineString id="909">
+                <coordinates>-77.44587,43.14121333333333,0.0 -77.44508,43.14125166666667,0.0 -77.44508,43.14125166666667,0.0 -77.4442,43.14129833333333,0.0 -77.4442,43.14129833333333,0.0 -77.44331,43.14131166666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="914">
+            <name>GPS car data</name>
+            <styleUrl>#915</styleUrl>
+            <LineString id="913">
+                <coordinates>-77.44331,43.14131166666667,0.0 -77.44248,43.141286666666666,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="918">
+            <name>GPS car data</name>
+            <styleUrl>#919</styleUrl>
+            <LineString id="917">
+                <coordinates>-77.44248,43.141286666666666,0.0 -77.44170166666666,43.14125333333333,0.0 -77.44170166666666,43.14125333333333,0.0 -77.44092166666667,43.14118666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="922">
+            <name>GPS car data</name>
+            <styleUrl>#923</styleUrl>
+            <LineString id="921">
+                <coordinates>-77.44092166666667,43.14118666666667,0.0 -77.44020833333333,43.14111333333334,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="926">
+            <name>GPS car data</name>
+            <styleUrl>#927</styleUrl>
+            <LineString id="925">
+                <coordinates>-77.44020833333333,43.14111333333334,0.0 -77.439605,43.14105,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="930">
+            <name>GPS car data</name>
+            <styleUrl>#931</styleUrl>
+            <LineString id="929">
+                <coordinates>-77.439605,43.14105,0.0 -77.43931166666667,43.14096333333333,0.0 -77.43931166666667,43.14096333333333,0.0 -77.43933333333334,43.14075,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="934">
+            <name>GPS car data</name>
+            <styleUrl>#935</styleUrl>
+            <LineString id="933">
+                <coordinates>-77.43933333333334,43.14075,0.0 -77.43943166666666,43.140445,0.0 -77.43943166666666,43.140445,0.0 -77.439505,43.140123333333335,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="938">
+            <name>GPS car data</name>
+            <styleUrl>#939</styleUrl>
+            <LineString id="937">
+                <coordinates>-77.439505,43.140123333333335,0.0 -77.43957833333333,43.13981833333333,0.0 -77.43957833333333,43.13981833333333,0.0 -77.43957666666667,43.13956,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="942">
+            <name>GPS car data</name>
+            <styleUrl>#943</styleUrl>
+            <LineString id="941">
+                <coordinates>-77.43957666666667,43.13956,0.0 -77.43946333333334,43.13931,0.0 -77.43946333333334,43.13931,0.0 -77.43922,43.139116666666666,0.0 -77.43922,43.139116666666666,0.0 -77.43885833333333,43.13895,0.0 -77.43885833333333,43.13895,0.0 -77.43850833333333,43.13877333333333,0.0 -77.43850833333333,43.13877333333333,0.0 -77.43816833333334,43.13862666666667,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="946">
+            <name>GPS car data</name>
+            <styleUrl>#947</styleUrl>
+            <LineString id="945">
+                <coordinates>-77.43816833333334,43.13862666666667,0.0 -77.43784333333333,43.13856666666667,0.0 -77.43784333333333,43.13856666666667,0.0 -77.43768166666666,43.13852,0.0 -77.43768166666666,43.13852,0.0 -77.43767833333334,43.138441666666665,0.0 -77.43767833333334,43.138441666666665,0.0 -77.43769333333333,43.138385,0.0</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>
