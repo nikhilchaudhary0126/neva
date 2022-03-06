@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<section>
+    <h1 class ="title">Create Post Details</h1>
+        <form method="POST">
+            {% csrf_token %}
+            <div>
+
+                <div>
+                    <select name="addresstype" class="dropdown" id="addresstype" >
+                        <option value="Shelter">Shelter</option>
+                        <option value="Zone">Zone</option>
+                        <option value="Transport">Transport</option>
+                        <option value="Supplies">Supplies</option>
+                    </select>
+                    <label for="addresstype" class ="label">Address Type</label>
+                </div>
+
+                <div>
+                    <input id="address" class="input-text" type="text" name="address" value="{{ address }}">
+                    <label for ="address" class="label">Address</label>
+                </div>
+
+                <div>
+                    <input id="city" class="input-text" type="text" name="city" value="{{ city }}">
+                    <label for ="address" class="label">City</label>
+                </div>
+
+                <div>
+                    <input id="state" class="input-text" type="text" name="state" value="{{ state }}">
+                    <label for ="address" class="label">State</label>
+                </div>
+
+                <div>
+                    <input class ="submit-btn" type="submit" value="Submit" name="">
+                </div>
+            </div>
+        </form>
+        </div>
+    </section>
+</body>
+</html>
