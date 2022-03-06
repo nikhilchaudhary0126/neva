@@ -3,15 +3,15 @@
 	{% load static %}
 
 	<head>
+		<!--    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>-->
 		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
 		<meta charset="utf-8" />
-		<title>Refugee Centers</title>
-    <link href="{% static 'css/maps.css'%}" type="stylesheet" />
-		<script src="{% static 'js/maps.js'%}"></script>
+		<title>Refugee Camps Map</title>
+		<link href="{% static 'css/map.css' %}" rel="stylesheet" />
 	</head>
 	<body>
 		<div id="map"></div>
-		<!-- <script ></script> -->
-		<script async src="{{GMAP_LINK}}"></script>
+		<script src="{% static 'js/map.js'%}"></script>
+		<script async src="https://maps.googleapis.com/maps/api/js?key={{gmap_key}}&callback=initMap&v=weekly&channel=2"></script>
 	</body>
 </html>

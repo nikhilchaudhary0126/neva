@@ -3,15 +3,11 @@ import requests
 from django.shortcuts import render, redirect
 from home.forms import LocationForm
 from home.models import Location
-from neva.settings import GMAP_LINK, API_KEY, MAP_URL
+from neva.settings import GMAP_LINK, API_KEY, MAP_URL, GOOGLE_MAPS_API_KEY
 from django.contrib import messages
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.forms import AuthenticationForm, UserCreationForm
 from django.contrib.auth.models import User
-
-
-def home(request):
-    return render(request, 'home.html')
 
 def applogin(request):
     if request.method == 'POST':
@@ -53,14 +49,17 @@ def registration(request):
 def home(request):
     f1 = Location.objects.all()
     print(f1)
-    data = Location.objects.get(id=1)
-    print(data.latitude,data.longitude)
+    # data = Location.objects.get(id=1)
+    # print(data.latitude,data.longitude)
 
-    f2 = Location.objects.all().filter(addresstype="Shelter")
-    print(f2)
+    # f2 = Location.objects.all().filter(addresstype="Shelter")
+    # print(f2)
 
     return render(request, 'home.html', {'GMAP_LINK': GMAP_LINK})
 
+def maps(request):
+    return render(request, 'map.html', {'gmap_key': GOOGLE_MAPS_API_KEY})
+    print("map key",GOOGLE_MAPS_API_KEY)
 
 def getLongitudeLatitude(combinedAddress):
     parameters = {

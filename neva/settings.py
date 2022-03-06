@@ -28,6 +28,7 @@ SECRET_KEY = os.getenv("SECRET_KEY")
 API_KEY = os.getenv("API_KEY")
 MAP_URL = os.getenv("MAP_URL")
 GMAP_LINK = os.getenv('GMAP_LINK')
+GOOGLE_MAPS_API_KEY = os.getenv('GOOGLE_MAPS_API_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -128,6 +129,11 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 KML_URL = '/static/sample.kml'
+STATICFILES_DIRS = [
+    BASE_DIR / "static",
+    '/home/static/',
+]
+
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
