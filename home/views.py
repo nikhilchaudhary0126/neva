@@ -7,6 +7,14 @@ from neva.settings import GMAP_LINK, API_KEY, MAP_URL
 from django.contrib import messages
 
 def home(request):
+    f1 = Location.objects.all()
+    print(f1)
+    data = Location.objects.get(id=1)
+    print(data.latitude,data.longitude)
+
+    f2 = Location.objects.all().filter(addresstype="Shelter")
+    print(f2)
+
     return render(request, 'home.html', {'GMAP_LINK': GMAP_LINK})
 
 
