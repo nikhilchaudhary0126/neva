@@ -30,7 +30,6 @@ def createPost(request):
         city = request.POST['city']
         state = request.POST['state']
         form = LocationForm(request.POST)
-        print(form)
         if form.is_valid():
             if addresstype and address and city and state:
                 combinedAddress = address + "," + city + "," + state
