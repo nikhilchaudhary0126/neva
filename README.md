@@ -1,21 +1,16 @@
-# neva
+# Neighborhood Evacuations
 
-## To get started
+### Inspiration
+
+Recent events in Ukraine motivated us to create a web app that would allow civilians to fulfill their immediate needs for shelter, evacuation and supplies. Whether it be the prospect of unexpected war or unavoidable natural disasters, we need these evacuation protocols to ensure the safety of people living in affected areas. Evacuation is made easy with the use of this app, which has the potential to save numerous lives.
 
 
-### installing the packages
+### Runtime Instructions
+* This webapp uses external apis and keys which should be defined in local runtime environments.
 
-```
-pip3 install -r requirements.txt
-```
+* Install all python packages using:
 
-if the default installer is called `pip` and not `pip3` try:
-```
-pip install -r requirements.txt
-```
+```pip3 install -r requirements.txt```
+* Run the webapp at localserver
 
-### running the server
-
-```
-python3 manage.py runserver
-```
+```python3 manage.py runserver```
