@@ -1,12 +1,15 @@
 html,
 body {
-	height: 370px;
+	height: 100%;
 	padding: 0;
 	margin: 0;
 }
 #map {
-	height: 360px;
-	width: 300px;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 5%;
+	height: 80%;
+	width: 80%;
 	overflow: hidden;
 	float: left;
 	border: thin solid #333;

@@ -52,13 +52,14 @@ def home(request):
     # data = Location.objects.get(id=1)
     # print(data.latitude,data.longitude)
 
-    f2 = Location.objects.all().filter(addresstype="Shelter")
-    print(f2)
+    # f2 = Location.objects.all().filter(addresstype="Shelter")
+    # print(f2)
 
     return render(request, 'home.html', {'GMAP_LINK': GMAP_LINK})
 
 def maps(request):
     return render(request, 'map.html', {'gmap_key': GOOGLE_MAPS_API_KEY})
+    print("map key",GOOGLE_MAPS_API_KEY)
 
 def getLongitudeLatitude(combinedAddress):
     parameters = {
