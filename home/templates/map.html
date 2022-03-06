@@ -11,6 +11,7 @@
 	</head>
 	<body>
 		<div id="map"></div>
+		<input type="hidden" id="myVar" name="variable" value="{{locationData}}">
 		<script src="{% static 'js/map.js'%}"></script>
 		<script async src="https://maps.googleapis.com/maps/api/js?key={{gmap_key}}&callback=initMap&v=weekly&channel=2"></script>
 	</body>
