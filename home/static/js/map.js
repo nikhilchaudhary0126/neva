@@ -2,8 +2,6 @@ var map;
 
 function initMap() {
 
-
-
 	var locations = [
 		["Los Angeles", 34.052235, -118.243683],
 		["Santa Monica", 34.024212, -118.496475],

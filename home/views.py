@@ -1,13 +1,15 @@
 import json
+
 import requests
-from django.shortcuts import render, redirect
-from home.forms import LocationForm
-from home.models import Location
-from neva.settings import GMAP_LINK, API_KEY, MAP_URL, GOOGLE_MAPS_API_KEY
 from django.contrib import messages
 from django.contrib.auth import authenticate, login
 from django.contrib.auth.forms import AuthenticationForm, UserCreationForm
 from django.contrib.auth.models import User
+from django.shortcuts import render, redirect
+
+from home.forms import LocationForm
+from home.models import Location
+from neva.settings import API_KEY, MAP_URL, GOOGLE_MAPS_API_KEY
 
 
 def applogin(request):
@@ -64,8 +66,7 @@ def maps(request):
             'long': x.longitude,
             'type': x.addresstype})
     locationData = json.dumps(locationData)
-    print(locationData)
-    return render(request, 'map.html', {'gmap_key': GOOGLE_MAPS_API_KEY})
+    return render(request, 'map.html', {'gmap_key': GOOGLE_MAPS_API_KEY,'locationData':locationData})
 
 
 def getLongitudeLatitude(combinedAddress):
