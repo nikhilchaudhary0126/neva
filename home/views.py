@@ -8,9 +8,6 @@ from django.contrib import messages
 def home(request):
     return render(request, 'home.html')
 
-def registration(request):
-    return render(request, 'registration.html')
-
 def applogin(request):
     if request.method == 'POST':
         username = request.POST['username']
@@ -26,7 +23,7 @@ def applogin(request):
     return render(request, 'login.html', {'form': form})
 
 
-def register(request):
+def registration(request):
     if request.method == "POST":
         username = request.POST['username']
         name = request.POST['name']
@@ -40,10 +37,10 @@ def register(request):
                 user.first_name = name
                 user.save()
                 messages.success(request, "User created. Please login.")
-                return redirect('/')
+                return redirect('/login')
             else:
                 messages.error(request, "Passwords don't match")
-                return render(request, 'register.html', {"form": UserCreationForm()})
+                return render(request, 'registration.html', {"form": UserCreationForm()})
         else:
             messages.error(request, "Registration failed! Please try again.")
-    return render(request, 'register.html', {"form": UserCreationForm()})
+    return render(request, 'registration.html', {"form": UserCreationForm()})
